@@ -1,0 +1,45 @@
+name: Hero Self-Nomination
+description: Use this form to nominate yourself to Hero status in the program
+title: "[Nomination] : "
+labels: ["nomination", "heroes"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out your self-nomination to Hero status in the program! A Hero is someone who is actively advocating for the technology of the Polkadot ecosystem, including building independent Substrate chains, ink! development, building Polkadot-related tooling, etc., effectively spreading awareness and educating a broader audience about the technology.
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out each section to the best of your ability. The more you are able to share the better our team is able to evaluate your self-nomination.
+  - type: textarea
+    id: technical-expertise
+    attributes:
+      label: Technical expertise
+      description: Share with us open source projects, blog posts or other content that demonstrates your technical expertise in Rust, Polkadot, or blockchain technology in general. These could be completed projects or works in progress. Please share links to everything referenced.
+      placeholder: Add your technical projects here.
+    validations:
+      required: true
+  - type: textarea
+    id: community-involvement
+    attributes:
+      label: Community involvement
+      description: Share with us your involvement in the Polkadot community. This could include participation in the Polkadot Ambassador program, organizing meetups, the Polkadot online forum, the Substrate/Polkadot StackExchange, on-chain participation, or other community building activities. Please share links to everything referenced.
+      placeholder: Add your technical projects here.
+    validations:
+      required: true
+  - type: textarea
+    id: content-creation
+    attributes:
+      label: Content creation
+      description: Share with us your content creation activities. This could include writing blog posts, tutorials, creating videos, delivering talks or other content that helps educate the broader community about Polkadot. Please share links to everything referenced.
+      placeholder: Add your technical projects here.
+    validations:
+      required: true
+  - type: textarea
+    id: leadership-experience
+    attributes:
+      label: Leadership experience
+      description: Share with us your leadership experience. This could include organizing meetups, shaping a discussion on the Polkadot forum, or other tech-related community leadership outside of Polkadot. Please share links to everything referenced.
+      placeholder: Add your technical projects here.
+    validations:
+      required: true
