@@ -47,6 +47,10 @@ To register your interest in joining the program, fill out the sign up form [her
 
 In the meantime, you can see who are the current [Rookies](Members/Rookies/README.md) and [Heroes](Members/Heroes/README.md) listed in this repository!
 
+## Code of Conduct
+
+This program is guided by a Code of Conduct applicable to all members of the program. You can find the Code of Conduct [here](CODE_OF_CONDUCT.md) along with instructions on how to report violations.
+
 ## License
 
 This repository is licensed under the [MIT](LICENSE).
