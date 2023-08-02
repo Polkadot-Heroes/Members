@@ -19,7 +19,7 @@ This README showcases all the people who have made it as Rookies into the Heroes
 ### Ben
 <img src="./images/ben.png" width="100"/>
 
-- Position: Substrate Developer
+- Position: Substrate Developer Relations Engineer
 - GitHub Profile: [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
 - Social Media Links:
     - X: [https://twitter.com/paritytech](https://twitter.com/paritytech)
