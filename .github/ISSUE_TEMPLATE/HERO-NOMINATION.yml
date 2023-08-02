@@ -24,7 +24,7 @@ body:
     attributes:
       label: Community involvement
       description: Share with us your involvement in the Polkadot community. This could include participation in the Polkadot Ambassador program, organizing meetups, the Polkadot online forum, the Substrate/Polkadot StackExchange, on-chain participation, or other community building activities. Please share links to everything referenced.
-      placeholder: Add your technical projects here.
+      placeholder: Add information on your community involvement here.
     validations:
       required: true
   - type: textarea
@@ -32,7 +32,7 @@ body:
     attributes:
       label: Content creation
       description: Share with us your content creation activities. This could include writing blog posts, tutorials, creating videos, delivering talks or other content that helps educate the broader community about Polkadot. Please share links to everything referenced.
-      placeholder: Add your technical projects here.
+      placeholder: Add your content creation activities here.
     validations:
       required: true
   - type: textarea
@@ -40,6 +40,24 @@ body:
     attributes:
       label: Leadership experience
       description: Share with us your leadership experience. This could include organizing meetups, shaping a discussion on the Polkadot forum, or other tech-related community leadership outside of Polkadot. Please share links to everything referenced.
-      placeholder: Add your technical projects here.
+      placeholder: Add your leadership experience here.
+    validations:
+      required: true
+  - type: dropdown
+    id: mentorship-experience
+    attributes:
+      label: Mentorship experience
+      description: Have you mentored others in the Polkadot community or elsewhere?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: mentorship-details
+    attributes:
+      label: Mentorship details
+      description: Share with us details about your mentorship experience. If you have mentored others, please share information about that experience. If you have not mentored others, please share your interest in doing so.
+      placeholder: Add your mentorship experience details or interest in doing so here.
     validations:
       required: true
