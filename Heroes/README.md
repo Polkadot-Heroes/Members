@@ -1,6 +1,15 @@
 # Heroes
 
-This README showcases all the people who have made it as Heroes into the Heroes program! Each person as they join the program adds themselves to this list.
+This README showcases all the people who have made it as Heroes into the Heroes program!
+
+All of our program members start out as Rookies and can become Heroes in one of two ways:
+
+1) By being nominated by a member of the Polkadot Developer Heroes team
+2) By [self-nominating](https://github.com/Polkadot-Heroes/Members/issues/new/choose) and going through the review process
+
+If you are already a Rookie and feel ready to apply to become a Hero, go ahead and [nominate yourself](https://github.com/Polkadot-Heroes/Members/issues/new/choose) today!
+
+You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroes_Review_Criteria.md) to learn more about the review process.
 
 ## Heroes List
 
