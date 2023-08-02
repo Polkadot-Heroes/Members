@@ -47,6 +47,12 @@ To register your interest in joining the program, fill out the sign up form [her
 
 In the meantime, you can see who are the current [Rookies](Members/Rookies/README.md) and [Heroes](Members/Heroes/README.md) listed in this repository!
 
+### Self-Nomination as a Hero
+
+If you are already a member of the program and would like to nominate yourself as a Hero, please review the [Heroes Application Review Criteria and Scoring Matrix Guidelines](Heroes_Review_Criteria.md) and then create a new issue in this repository using the Hero Self-Nomination Template.
+
+Once your self-nomination has been submitted as an Issue in this repository, the team will be assigned to review your candidacy for Hero status.
+
 ## Code of Conduct
 
 This program is guided by a Code of Conduct applicable to all members of the program. You can find the Code of Conduct [here](CODE_OF_CONDUCT.md) along with instructions on how to report violations.
