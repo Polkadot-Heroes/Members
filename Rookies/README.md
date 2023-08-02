@@ -4,6 +4,8 @@ This README showcases all the people who have made it as Rookies into the Heroes
 
 All of our program members start as a Rookie. Start by adding your profile as a Rookie to begin with and then be sure to [nominate yourself to be a Hero](https://github.com/Polkadot-Heroes/Members/issues/new/choose) when you feel ready.
 
+You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroes_Review_Criteria.md) to learn more about the Hero review process.
+
 ## Rookies List
 
 ### Alice (*Template*)
