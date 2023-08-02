@@ -7,6 +7,7 @@ This README showcases all the people who have made it as Rookies into the Heroes
 ### Alice (*Template*)
 <img src="./images/alice.png" width="100"/>
 
+- Name: Alice
 - Position: Substrate Developer
 - GitHub Profile: [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
 - Social Media Links:
