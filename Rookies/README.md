@@ -16,6 +16,18 @@ This README showcases all the people who have made it as Rookies into the Heroes
 - Personal Site: [https://www.parity.io/](https://www.parity.io/)
 - Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
 
+### Ben
+<img src="./images/ben.png" width="100"/>
+
+- Position: Substrate Developer
+- GitHub Profile: [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
+- Social Media Links:
+    - X: [https://twitter.com/paritytech](https://twitter.com/paritytech)
+    - LinkedIn: [https://www.linkedin.com/company/paritytech/](https://www.linkedin.com/company/paritytech/)
+    - ... any others you want to share
+- Personal Site: [https://www.parity.io/](https://www.parity.io/)
+- Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
