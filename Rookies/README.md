@@ -14,7 +14,18 @@ This README showcases all the people who have made it as Rookies into the Heroes
     - LinkedIn: [https://www.linkedin.com/company/paritytech/](https://www.linkedin.com/company/paritytech/)
     - ... any others you want to share
 - Personal Site: [https://www.parity.io/](https://www.parity.io/)
-- Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
+- Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)\
+
+### Ben
+<img src="./images/ben.png" width="100"/>
+
+- Name: Ben Greenberg
+- Position: Parity Senior Developer Relations Engineer
+- GitHub Profile: [https://github.com/hummusonrails](https://github.com/hummusonrails)
+- Social Media Links:
+    - X: [https://twitter.com/hummusonrails](https://twitter.com/hummusonrails)
+- Personal Site: [https://www.bengreenberg.dev/](https://www.bengreenberg.dev/)
+- Blog: [https://www.bengreenberg.dev/blog/](https://www.bengreenberg.dev/blog/)
 
 ## Contributing
 
