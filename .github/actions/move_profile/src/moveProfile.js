@@ -16,6 +16,8 @@ if (!name) {
 
 const rookiesFilePath = path.join(__dirname, '../../../../Rookies/README.md');
 const heroesFilePath = path.join(__dirname, '../../../../Heroes/README.md');
+const rookiesImagesDir = path.join(__dirname, '../../../../Rookies/images');
+const heroesImagesDir = path.join(__dirname, '../../../../Heroes/images');
 
 if (!fs.existsSync(rookiesFilePath)) {
     console.error('Rookies/README.md does not exist');
@@ -56,7 +58,7 @@ if (rookieIndex === -1) {
   process.exit(1);
 }
 
-const profile = rookies.slice(rookieIndex, 1)[0]; // Remove the profile from rookies
+let profile = rookies.slice(rookieIndex, 1)[0]; // Remove the profile from rookies
 
 // Check if the hero with the same name and GitHub profile already exists
 const profileGithubProfile = getAttributeFromProfile(profile, 'GitHub Profile');  // Extract GitHub Profile from the profile
@@ -67,10 +69,10 @@ const existingHero = heroes.find(hero => {
     return heroName === name && heroGithubProfile === profileGithubProfile;
   });
   
-  if (existingHero) {
-    console.warn(`Hero with the same name '${name}' but a different GitHub profile already exists in Heroes/README.md`);
+if (existingHero) {
+    console.warn(`Hero with the same name '${name}' and GitHub profile already exists in Heroes/README.md`);
     process.exit(0); // Exit without adding the profile to the Heroes list
-  }
+}
 
 // Find the correct index to insert the profile alphabetically
 let heroIndex = heroes.findIndex(hero => {
@@ -88,7 +90,27 @@ let heroIndex = heroes.findIndex(hero => {
 
 if (heroIndex === -1) heroIndex = heroes.length; // If no heroes have a name "greater" than the rookie, append at the end
 
-heroes.slice(heroIndex, 0, profile); // Insert the profile into the heroes list at the correct index
+// Move image
+let imageName = getImageFromProfile(profile);
+let sourcePath = path.join(rookiesImagesDir, imageName);
+let destPath = path.join(heroesImagesDir, imageName);
+
+if (fs.existsSync(sourcePath)) {
+  let counter = 1;
+  while(fs.existsSync(destPath)) {
+    const parsedPath = path.parse(imageName);
+    imageName = parsedPath.name + counter + parsedPath.ext;
+    destPath = path.join(heroesImagesDir, imageName);
+    counter++;
+  }
+
+  fs.renameSync(sourcePath, destPath); // Move the image
+  profile = profile.replace(/<img src=".\/images\/(.+)" width="100"/, `<img src="./images/${imageName}" width="100"/>`);  // Update the profile with the new image name
+} else {
+  console.warn('Image not found in Rookies/images');
+}
+
+heroes.splice(heroIndex, 0, profile); // Insert the profile into the heroes list at the correct index
 
 // Write back to the README files
 fs.writeFileSync(rookiesFilePath, rookies.join('### '), 'utf-8');
@@ -103,5 +125,11 @@ function getNameFromIssue(issuePayload) {
 // Function to extract additional attribute from the profile
 function getAttributeFromProfile(profile, attribute) {
   const match = profile.match(new RegExp(`- ${attribute}: (.+)`));
+  return match ? match[1] : null;
+}
+
+// Function to extract the image name from the profile
+function getImageFromProfile(profile) {
+  const match = profile.match(/<img src=".\/images\/(.+)" width="100"/);
   return match ? match[1] : null;
 }
