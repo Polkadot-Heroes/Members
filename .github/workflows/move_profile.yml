@@ -1,0 +1,27 @@
+name: Move Profile
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  move-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Move Profile
+        run: node .github/actions/move_profile/src/moveProfile.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_PAYLOAD: ${{ toJson(github.event.issue) }}
+
+      - name: Commit and push if it's necessary
+        run: |
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'Move profile from Rookies to Heroes'; git push origin)
