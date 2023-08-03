@@ -21,6 +21,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_PAYLOAD: ${{ toJson(github.event.issue) }}
 
+      - name: Configure Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions [Bot]"
+
       - name: Commit and push if it's necessary
         run: |
           git add .
