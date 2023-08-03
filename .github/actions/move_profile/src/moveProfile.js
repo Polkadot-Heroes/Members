@@ -32,6 +32,9 @@ if (!fs.existsSync(heroesFilePath)) {
 let rookies = fs.readFileSync(rookiesFilePath, 'utf-8');
 let heroes = fs.readFileSync(heroesFilePath, 'utf-8');
 
+console.log(`ROOKIES: ${rookies}`);
+console.log(`HEROES: ${heroes}`);
+
 if (!rookies.trim()) {
     console.error('Rookies/README.md is empty');
     process.exit(1);
@@ -45,12 +48,22 @@ process.exit(1);
 const rookieStartIndex = rookies.indexOf('## Rookies List') + '## Rookies List'.length;
 const rookieEndIndex = rookies.indexOf('## Contributing');
 
+console.log(`ROOKIE START INDEX: ${rookieStartIndex}`);
+console.log(`ROOKIE END INDEX: ${rookieEndIndex}`);
+
 rookies = rookies.slice(rookieStartIndex, rookieEndIndex).split('### ').slice(1); // Split profiles by '### '
+
+console.log(`ROOKIES AFTER SLICE: ${rookies}`);
 
 const heroStartIndex = heroes.indexOf('## Heroes List') + '## Heroes List'.length;
 const heroEndIndex = heroes.indexOf('## Contributing');
 
+console.log(`HERO START INDEX: ${heroStartIndex}`);
+console.log(`HERO END INDEX: ${heroEndIndex}`);
+
 heroes = heroes.slice(heroStartIndex, heroEndIndex).split('### ').slice(1); // Split profiles by '### '
+
+console.log(`HEROES AFTER SLICE: ${heroes}`);
 
 const rookieIndex = rookies.findIndex(profile => profile.startsWith(`${name}`));
 if (rookieIndex === -1) {
@@ -140,6 +153,13 @@ function getAttributeFromProfile(profile, attribute) {
 
 // Function to extract the image name from the profile
 function getImageFromProfile(profile) {
+  if (!profile) {
+    console.error('Profile is undefined');
+    return null;
+  }
+
+  console.log(`PROFILE in getImageFromProfile: ${profile}`); 
+
   const match = profile.match(/<img src=".\/images\/(.+)" width="100"/);
   return match ? match[1] : null;
 }
