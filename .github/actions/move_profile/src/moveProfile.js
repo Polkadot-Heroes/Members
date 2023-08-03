@@ -70,7 +70,7 @@ const rookieIndex = rookies.findIndex(profile => {
     return nameRegex.test(profileName); // Test if the profile name matches the regular expression
 });
 
-let profile = rookies.slice(rookieIndex, 1)[0]; // Remove the profile from rookies
+let profile = rookies.splice(rookieIndex, 1)[0]; // Remove the profile from rookies
 
 console.log(`PROFILE: ${profile}`);
 
