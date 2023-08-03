@@ -60,6 +60,8 @@ if (rookieIndex === -1) {
 
 let profile = rookies.slice(rookieIndex, 1)[0]; // Remove the profile from rookies
 
+console.log(`PROFILE: ${profile}`);
+
 // Check if the hero with the same name and GitHub profile already exists
 const profileGithubProfile = getAttributeFromProfile(profile, 'GitHub Profile');  // Extract GitHub Profile from the profile
 
@@ -124,6 +126,14 @@ function getNameFromIssue(issuePayload) {
 
 // Function to extract additional attribute from the profile
 function getAttributeFromProfile(profile, attribute) {
+  if (!profile) {
+     console.error('Profile is undefined');
+     return null;
+  }
+
+  console.log(`ATTRIBUTE in getAttributefromProfile: ${attribute}`);
+  console.log(`PROFILE in getAttributefromProfile: ${profile}`); 
+  
   const match = profile.match(new RegExp(`- ${attribute}: (.+)`));
   return match ? match[1] : null;
 }
