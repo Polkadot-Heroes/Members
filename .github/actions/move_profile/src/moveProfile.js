@@ -24,7 +24,7 @@ const heroesImagesDir = path.join(__dirname, '../../../../Heroes/images');
 if (!fs.existsSync(rookiesFilePath)) {
     console.error('Rookies/README.md does not exist');
     process.exit(1);
-  }
+}
   
 if (!fs.existsSync(heroesFilePath)) {
     console.error('Heroes/README.md does not exist');
@@ -37,20 +37,30 @@ let heroes = fs.readFileSync(heroesFilePath, 'utf-8');
 if (!rookies.trim()) {
     console.error('Rookies/README.md is empty');
     process.exit(1);
-  }
+}
   
 if (!heroes.trim()) {
     console.error('Heroes/README.md is empty');
     process.exit(1);
 }
 
-const rookieStartIndex = rookies.indexOf('## Rookies List') + '## Rookies List'.length;
-const rookieEndIndex = rookies.indexOf('## Contributing');
+const rookieProfilesStart = '## Rookies List';
+const rookieProfilesEnd = '## Contributing';
+const rookiePreContent = rookies.substring(0, rookies.indexOf(rookieProfilesStart) + rookieProfilesStart.length);
+const rookiePostContent = rookies.substring(rookies.indexOf(rookieProfilesEnd));
+
+const heroProfilesStart = '## Heroes List';
+const heroProfilesEnd = '## Contributing';
+const heroPreContent = heroes.substring(0, heroes.indexOf(heroProfilesStart) + heroProfilesStart.length);
+const heroPostContent = heroes.substring(heroes.indexOf(heroProfilesEnd));
+
+const rookieStartIndex = rookies.indexOf(rookieProfilesStart) + rookieProfilesStart.length;
+const rookieEndIndex = rookies.indexOf(rookieProfilesEnd);
 
 rookies = rookies.slice(rookieStartIndex, rookieEndIndex).split('###').slice(1); // Split profiles by '### '
 
-const heroStartIndex = heroes.indexOf('## Heroes List') + '## Heroes List'.length;
-const heroEndIndex = heroes.indexOf('## Contributing');
+const heroStartIndex = heroes.indexOf(heroProfilesStart) + heroProfilesStart.length;
+const heroEndIndex = heroes.indexOf(heroProfilesEnd);
 
 heroes = heroes.slice(heroStartIndex, heroEndIndex).split('###').slice(1); // Split profiles by '### '
 
@@ -115,8 +125,8 @@ if (fs.existsSync(sourcePath)) {
 heroes.splice(heroIndex, 0, profile); // Insert the profile into the heroes list at the correct index
 
 // Write back to the README files
-fs.writeFileSync(rookiesFilePath, rookies.join('### '), 'utf-8');
-fs.writeFileSync(heroesFilePath, heroes.join('### '), 'utf-8');
+fs.writeFileSync(rookiesFilePath, rookiePreContent + rookies.join('### ') + rookiePostContent, 'utf-8');
+fs.writeFileSync(heroesFilePath, heroPreContent + heroes.join('### ') + heroPostContent, 'utf-8');
 
 // Function to extract the name from the issue title
 function getNameFromIssue(issuePayload) {
