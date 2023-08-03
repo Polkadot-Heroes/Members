@@ -5,10 +5,8 @@ const issuePayload = JSON.parse(process.env.ISSUE_PAYLOAD);
 
 const labelNames = issuePayload.labels.map(label => label.name);
 
-console.log(`LABEL NAMES: ${labelNames}`);
-
 if (!labelNames.includes('nomination-accepted')) {
-  process.exit(0); // Exit if the issue is not labeled with 'nomination-accepted'
+    process.exit(0); // Exit if the issue is not labeled with 'nomination-accepted'
 }
 
 const name = getNameFromIssue(issuePayload); // Extract the name from the issue
@@ -16,8 +14,8 @@ const name = getNameFromIssue(issuePayload); // Extract the name from the issue
 console.log(`NAME: ${name}`);
 
 if (!name) {
-  console.error('Name not found in the issue');
-  process.exit(1);
+    console.error('Name not found in the issue');
+    process.exit(1);
 }
 
 const rookiesFilePath = path.join(__dirname, '../../../../Rookies/README.md');
@@ -38,17 +36,14 @@ if (!fs.existsSync(heroesFilePath)) {
 let rookies = fs.readFileSync(rookiesFilePath, 'utf-8');
 let heroes = fs.readFileSync(heroesFilePath, 'utf-8');
 
-console.log(`ROOKIES: ${rookies}`);
-console.log(`HEROES: ${heroes}`);
-
 if (!rookies.trim()) {
     console.error('Rookies/README.md is empty');
     process.exit(1);
   }
   
 if (!heroes.trim()) {
-console.error('Heroes/README.md is empty');
-process.exit(1);
+    console.error('Heroes/README.md is empty');
+    process.exit(1);
 }
 
 const rookieStartIndex = rookies.indexOf('## Rookies List') + '## Rookies List'.length;
@@ -64,19 +59,13 @@ console.log(`ROOKIES AFTER SLICE: ${rookies}`);
 const heroStartIndex = heroes.indexOf('## Heroes List') + '## Heroes List'.length;
 const heroEndIndex = heroes.indexOf('## Contributing');
 
-console.log(`HERO START INDEX: ${heroStartIndex}`);
-console.log(`HERO END INDEX: ${heroEndIndex}`);
-
 heroes = heroes.slice(heroStartIndex, heroEndIndex).split('###').slice(1); // Split profiles by '### '
 
-console.log(`HEROES AFTER SLICE: ${heroes}`);
-
-const rookieIndex = rookies.findIndex(profile => profile.startsWith(`${name}`));
-console.log(`ROOKIE INDEX: ${rookieIndex}`);
-if (rookieIndex === -1) {
-  console.error('Profile not found in Rookies/README.md');
-  process.exit(1);
-}
+const rookieIndex = rookies.findIndex(profile => {
+    const nameRegex = new RegExp(`^${name}\\b`, 'i'); // Create a regular expression to match the profile name
+    const profileName = profile.match(/^Name: (.*)$/im)[1]; // Extract the profile name from the profile
+    return nameRegex.test(profileName); // Test if the profile name matches the regular expression
+});
 
 let profile = rookies.slice(rookieIndex, 1)[0]; // Remove the profile from rookies
 
@@ -89,7 +78,7 @@ const existingHero = heroes.find(hero => {
     const heroName = hero.split('\n')[0];  // Extract the first line (name) from the hero profile
     const heroGithubProfile = getAttributeFromProfile(hero, 'GitHub Profile');  // Extract GitHub Profile from the hero profile
     return heroName === name && heroGithubProfile === profileGithubProfile;
-  });
+});
   
 if (existingHero) {
     console.warn(`Hero with the same name '${name}' and GitHub profile already exists in Heroes/README.md`);
@@ -98,16 +87,16 @@ if (existingHero) {
 
 // Find the correct index to insert the profile alphabetically
 let heroIndex = heroes.findIndex(hero => {
-  const heroName = hero.split('\n')[0];  // Extract the first line (name) from the hero profile
-  const comparison = heroName.localeCompare(name);
-  if (comparison > 0) {
-    return true;
-  } else if (comparison === 0) {
-    const heroGithubProfile = getAttributeFromProfile(hero, 'GitHub Profile');  // Extract GitHub Profile from the hero profile
-    return heroGithubProfile.localeCompare(profileGithubProfile) > 0;
-  } else {
-    return false;
-  }
+    const heroName = hero.split('\n')[0];  // Extract the first line (name) from the hero profile
+    const comparison = heroName.localeCompare(name);
+    if (comparison > 0) {
+        return true;
+    } else if (comparison === 0) {
+        const heroGithubProfile = getAttributeFromProfile(hero, 'GitHub Profile');  // Extract GitHub Profile from the hero profile
+        return heroGithubProfile.localeCompare(profileGithubProfile) > 0;
+    } else {
+        return false;
+    }
 });
 
 if (heroIndex === -1) heroIndex = heroes.length; // If no heroes have a name "greater" than the rookie, append at the end
@@ -118,18 +107,18 @@ let sourcePath = path.join(rookiesImagesDir, imageName);
 let destPath = path.join(heroesImagesDir, imageName);
 
 if (fs.existsSync(sourcePath)) {
-  let counter = 1;
-  while(fs.existsSync(destPath)) {
-    const parsedPath = path.parse(imageName);
-    imageName = parsedPath.name + counter + parsedPath.ext;
-    destPath = path.join(heroesImagesDir, imageName);
-    counter++;
-  }
+    let counter = 1;
+    while(fs.existsSync(destPath)) {
+        const parsedPath = path.parse(imageName);
+        imageName = parsedPath.name + counter + parsedPath.ext;
+        destPath = path.join(heroesImagesDir, imageName);
+        counter++;
+    }
 
-  fs.renameSync(sourcePath, destPath); // Move the image
-  profile = profile.replace(/<img src=".\/images\/(.+)" width="100"/, `<img src="./images/${imageName}" width="100"/>`);  // Update the profile with the new image name
-} else {
-  console.warn('Image not found in Rookies/images');
+    fs.renameSync(sourcePath, destPath); // Move the image
+    profile = profile.replace(/<img src=".\/images\/(.+)" width="100"/, `<img src="./images/${imageName}" width="100"/>`);  // Update the profile with the new image name
+ } else {
+    console.warn('Image not found in Rookies/images');
 }
 
 heroes.splice(heroIndex, 0, profile); // Insert the profile into the heroes list at the correct index
@@ -140,33 +129,30 @@ fs.writeFileSync(heroesFilePath, heroes.join('### '), 'utf-8');
 
 // Function to extract the name from the issue title
 function getNameFromIssue(issuePayload) {
-  const match = issuePayload.title.match(/^\[Nomination\] : (.+)/);
-  return match ? match[1] : null;
+    const match = issuePayload.title.match(/^\[Nomination\] : (.+)/);
+    return match ? match[1] : null;
 }
 
 // Function to extract additional attribute from the profile
 function getAttributeFromProfile(profile, attribute) {
-  if (!profile) {
-     console.error('Profile is undefined');
-     return null;
-  }
-
-  console.log(`ATTRIBUTE in getAttributefromProfile: ${attribute}`);
-  console.log(`PROFILE in getAttributefromProfile: ${profile}`); 
+    if (!profile) {
+        console.error('Profile is undefined');
+        return null;
+    }
   
-  const match = profile.match(new RegExp(`- ${attribute}: (.+)`));
-  return match ? match[1] : null;
+    const match = profile.match(new RegExp(`- ${attribute}: (.+)`));
+    return match ? match[1] : null;
 }
 
 // Function to extract the image name from the profile
 function getImageFromProfile(profile) {
-  if (!profile) {
-    console.error('Profile is undefined');
-    return null;
-  }
+    if (!profile) {
+        console.error('Profile is undefined');
+        return null;
+    }
 
-  console.log(`PROFILE in getImageFromProfile: ${profile}`); 
+    console.log(`PROFILE in getImageFromProfile: ${profile}`); 
 
-  const match = profile.match(/<img src=".\/images\/(.+)" width="100"/);
-  return match ? match[1] : null;
+    const match = profile.match(/<img src=".\/images\/(.+)" width="100"/);
+    return match ? match[1] : null;
 }
