@@ -140,6 +140,9 @@ function getAttributeFromProfile(profile, attribute) {
         return null;
     }
   
+    console.log('ATTRIBUTE:', attribute);
+    console.log('PROFILE:', profile);
+    
     const match = profile.match(new RegExp(`- ${attribute}: (.+)`));
     return match ? match[1] : null;
 }
