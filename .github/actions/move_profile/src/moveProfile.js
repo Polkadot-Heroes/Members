@@ -11,8 +11,6 @@ if (!labelNames.includes('nomination-accepted')) {
 
 const name = getNameFromIssue(issuePayload); // Extract the name from the issue
 
-console.log(`NAME: ${name}`);
-
 if (!name) {
     console.error('Name not found in the issue');
     process.exit(1);
@@ -49,12 +47,7 @@ if (!heroes.trim()) {
 const rookieStartIndex = rookies.indexOf('## Rookies List') + '## Rookies List'.length;
 const rookieEndIndex = rookies.indexOf('## Contributing');
 
-console.log(`ROOKIE START INDEX: ${rookieStartIndex}`);
-console.log(`ROOKIE END INDEX: ${rookieEndIndex}`);
-
 rookies = rookies.slice(rookieStartIndex, rookieEndIndex).split('###').slice(1); // Split profiles by '### '
-
-console.log(`ROOKIES AFTER SLICE: ${rookies}`);
 
 const heroStartIndex = heroes.indexOf('## Heroes List') + '## Heroes List'.length;
 const heroEndIndex = heroes.indexOf('## Contributing');
@@ -63,16 +56,11 @@ heroes = heroes.slice(heroStartIndex, heroEndIndex).split('###').slice(1); // Sp
 
 const rookieIndex = rookies.findIndex(profile => {
     const nameRegex = new RegExp(`^${name}\\b`, 'i'); // Create a regular expression to match the profile name
-    console.log(`NAME REGEX: ${nameRegex}`);
-    console.log(`PROFILE: ${profile}`)
     const profileName = profile.match(/^- Name:\s*(?!.*Template)(.*)$/im)[1]; // Extract the profile name from the profile, excluding profiles that contain the word "Template"
-    console.log(`PROFILE NAME: ${profileName}`);
     return nameRegex.test(profileName); // Test if the profile name matches the regular expression
 });
 
 let profile = rookies.splice(rookieIndex, 1)[0]; // Remove the profile from rookies
-
-console.log(`PROFILE: ${profile}`);
 
 // Check if the hero with the same name and GitHub profile already exists
 const profileGithubProfile = getAttributeFromProfile(profile, 'GitHub Profile');  // Extract GitHub Profile from the profile
@@ -142,9 +130,6 @@ function getAttributeFromProfile(profile, attribute) {
         console.error('Profile is undefined');
         return null;
     }
-  
-    console.log('ATTRIBUTE:', attribute);
-    console.log('PROFILE:', profile);
     
     const match = profile.match(new RegExp(`- ${attribute}: (.+)`));
     return match ? match[1] : null;
@@ -156,8 +141,6 @@ function getImageFromProfile(profile) {
         console.error('Profile is undefined');
         return null;
     }
-
-    console.log(`PROFILE in getImageFromProfile: ${profile}`); 
 
     const match = profile.match(/<img src=".\/images\/(.+)" width="100"/);
     return match ? match[1] : null;
