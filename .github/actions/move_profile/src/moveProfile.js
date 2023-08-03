@@ -63,7 +63,10 @@ heroes = heroes.slice(heroStartIndex, heroEndIndex).split('###').slice(1); // Sp
 
 const rookieIndex = rookies.findIndex(profile => {
     const nameRegex = new RegExp(`^${name}\\b`, 'i'); // Create a regular expression to match the profile name
-    const profileName = profile.match(/^Name: (.*)$/im)[1]; // Extract the profile name from the profile
+    console.log(`NAME REGEX: ${nameRegex}`);
+    console.log(`PROFILE: ${profile}`)
+    const profileName = profile.match(/^Name:\s*(.*)$/im)[1]; // Extract the profile name from the profile
+    console.log(`PROFILE NAME: ${profileName}`);
     return nameRegex.test(profileName); // Test if the profile name matches the regular expression
 });
 
