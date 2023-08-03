@@ -24,17 +24,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [https://www.parity.io/](https://www.parity.io/)
 - Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
 
-###  Ben
-<img src="./images/ben.png" width="100"/>/>
-
-- Name: Ben
-- Position: Substrate Developer
-- GitHub Profile: [https://github.com/hummusonrails](https://github.com/hummusonrails)
-- Social Media Links:
-    - X: [https://twitter.com/hummusonrails](https://twitter.com/hummusonrails)
-- Personal Site: [https://www.bengreenberg.dev/](https://www.bengreenberg.dev/)
-- Blog: [https://www.bengreenberg.dev/blog/](https://www.parity.io/blog/)
-
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
