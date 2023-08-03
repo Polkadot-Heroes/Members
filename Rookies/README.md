@@ -6,9 +6,7 @@ All of our program members start as a Rookie. Start by adding your profile as a 
 
 You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroes_Review_Criteria.md) to learn more about the Hero review process.
 
-## Rookies List
-
-### Alice (*Template*)
+## Rookies List Alice (*Template*)
 <img src="./images/alice.png" width="100"/>
 
 - Name: Alice
@@ -20,17 +18,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
     - ... any others you want to share
 - Personal Site: [https://www.parity.io/](https://www.parity.io/)
 - Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
-
-### Ben
-<img src="./images/ben.png" width="100"/>
-
-- Name: Ben
-- Position: Substrate Developer
-- GitHub Profile: [https://github.com/hummusonrails](https://github.com/hummusonrails)
-- Social Media Links:
-    - X: [https://twitter.com/hummusonrails](https://twitter.com/hummusonrails)
-- Personal Site: [https://www.bengreenberg.dev/](https://www.bengreenberg.dev/)
-- Blog: [https://www.bengreenberg.dev/blog/](https://www.parity.io/blog/)
 
 ## Contributing
 
