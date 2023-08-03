@@ -4,11 +4,17 @@ const path = require('path');
 const issuePayload = JSON.parse(process.env.ISSUE_PAYLOAD);
 
 const labelNames = issuePayload.labels.map(label => label.name);
+
+console.log(`LABEL NAMES: ${labelNames}`);
+
 if (!labelNames.includes('nomination-accepted')) {
   process.exit(0); // Exit if the issue is not labeled with 'nomination-accepted'
 }
 
 const name = getNameFromIssue(issuePayload); // Extract the name from the issue
+
+console.log(`NAME: ${name}`);
+
 if (!name) {
   console.error('Name not found in the issue');
   process.exit(1);
@@ -51,7 +57,7 @@ const rookieEndIndex = rookies.indexOf('## Contributing');
 console.log(`ROOKIE START INDEX: ${rookieStartIndex}`);
 console.log(`ROOKIE END INDEX: ${rookieEndIndex}`);
 
-rookies = rookies.slice(rookieStartIndex, rookieEndIndex).split('### ').slice(1); // Split profiles by '### '
+rookies = rookies.slice(rookieStartIndex, rookieEndIndex).split('###').slice(1); // Split profiles by '### '
 
 console.log(`ROOKIES AFTER SLICE: ${rookies}`);
 
@@ -61,11 +67,12 @@ const heroEndIndex = heroes.indexOf('## Contributing');
 console.log(`HERO START INDEX: ${heroStartIndex}`);
 console.log(`HERO END INDEX: ${heroEndIndex}`);
 
-heroes = heroes.slice(heroStartIndex, heroEndIndex).split('### ').slice(1); // Split profiles by '### '
+heroes = heroes.slice(heroStartIndex, heroEndIndex).split('###').slice(1); // Split profiles by '### '
 
 console.log(`HEROES AFTER SLICE: ${heroes}`);
 
 const rookieIndex = rookies.findIndex(profile => profile.startsWith(`${name}`));
+console.log(`ROOKIE INDEX: ${rookieIndex}`);
 if (rookieIndex === -1) {
   console.error('Profile not found in Rookies/README.md');
   process.exit(1);
