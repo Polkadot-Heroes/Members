@@ -6,20 +6,9 @@ All of our program members start as a Rookie. Start by adding your profile as a 
 
 You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroes_Review_Criteria.md) to learn more about the Hero review process.
 
-## Rookies List Alice (_Template_)
+## Rookies List
 
-<img src="./images/alice.png" width="100"/>
-
-- Name: Alice
-- Position: Substrate Developer
-- GitHub Profile: [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
-- Social Media Links:
-  - X: [https://twitter.com/paritytech](https://twitter.com/paritytech)
-  - LinkedIn: [https://www.linkedin.com/company/paritytech/](https://www.linkedin.com/company/paritytech/)
-  - ... any others you want to share
-- Personal Site: [https://www.parity.io/](https://www.parity.io/)
-- Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
-
+### Frank Dierolf
 <img src="./images/frank.png" width="100"/>
 
 - Name: Frank Dierolf
