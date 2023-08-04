@@ -6,7 +6,30 @@ All of our program members start as a Rookie. Start by adding your profile as a 
 
 You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroes_Review_Criteria.md) to learn more about the Hero review process.
 
-## Rookies List Alice (*Template*)
+## Rookies List
+
+### Fenn Ignatius Saji
+<img src="./images/fenn.jpg" width="100"/>
+
+- Name: Fenn Ignatius Saji
+- Position: Lead Blockchain Developer
+- GitHub Profile: [https://github.com/fennsaji](https://github.com/fennsaji)
+- Social Media Links:
+    - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
+    - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
+
+### Frank Dierolf
+<img src="./images/frank.png" width="100"/>
+
+- Name: Frank Dierolf
+- Position: Web3AR Developer
+- GitHub Profile: [Frank Bevr](https://github.com/frankbevr)
+- Social Media Links:
+  - Discord: `FrankBevr`
+  - Telegram: `@FrankBevr`
+  - E-mail: `frank_dierolf@web.de`
+
+### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
 
 - Name: Salil
@@ -91,4 +114,3 @@ Once your pull request is merged, your profile will be visible in the list!
 ## License
 
 This project is licensed under the terms of the MIT license. Please see [LICENSE](../LICENSE) for more details.
-
