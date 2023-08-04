@@ -30,6 +30,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
     - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
     - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
 
+
+### Fenn Ignatius Saji
+<img src="./images/fenn.jpg" width="100"/>
+
+- Name: Fenn Ignatius Saji
+- Position: Lead Blockchain Developer
+- GitHub Profile: [https://github.com/fennsaji](https://github.com/fennsaji)
+- Social Media Links:
+    - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
+    - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
