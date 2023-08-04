@@ -20,7 +20,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
 
 
-## Fenn Ignatius Saji
+### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
 
 - Name: Fenn Ignatius Saji
