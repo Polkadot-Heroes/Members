@@ -7,17 +7,16 @@ All of our program members start as a Rookie. Start by adding your profile as a 
 You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroes_Review_Criteria.md) to learn more about the Hero review process.
 
 ## Rookies List Alice (*Template*)
-<img src="./images/alice.png" width="100"/>
+<img src="./images/salil.jpg" width="100"/>
 
-- Name: Alice
+- Name: Salil
 - Position: Substrate Developer
-- GitHub Profile: [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
+- GitHub Profile: [https://github.com/pallasite99](https://github.com/pallasite99)
 - Social Media Links:
-    - X: [https://twitter.com/paritytech](https://twitter.com/paritytech)
-    - LinkedIn: [https://www.linkedin.com/company/paritytech/](https://www.linkedin.com/company/paritytech/)
-    - ... any others you want to share
-- Personal Site: [https://www.parity.io/](https://www.parity.io/)
-- Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
+    - X: [https://twitter.com/pallasite99](https://twitter.com/pallasite99)
+    - LinkedIn: [https://www.linkedin.com/in/salil-apte](https://www.linkedin.com/in/salil-apte)
+- Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
+- Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
 ## Contributing
 
