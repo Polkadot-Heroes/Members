@@ -8,6 +8,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 
 ## Rookies List
 
+### Fenn Ignatius Saji
+<img src="./images/fenn.jpg" width="100"/>
+
+- Name: Fenn Ignatius Saji
+- Position: Lead Blockchain Developer
+- GitHub Profile: [https://github.com/fennsaji](https://github.com/fennsaji)
+- Social Media Links:
+    - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
+    - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
+
+
 ### Frank Dierolf
 <img src="./images/frank.png" width="100"/>
 
@@ -18,6 +29,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `FrankBevr`
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
+
 
 ## Contributing
 
