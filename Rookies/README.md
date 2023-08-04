@@ -6,18 +6,18 @@ All of our program members start as a Rookie. Start by adding your profile as a 
 
 You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroes_Review_Criteria.md) to learn more about the Hero review process.
 
-## Rookies List Alice (*Template*)
-<img src="./images/alice.png" width="100"/>
+## Rookies List
 
-- Name: Alice
-- Position: Substrate Developer
-- GitHub Profile: [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
+### Frank Dierolf
+<img src="./images/frank.png" width="100"/>
+
+- Name: Frank Dierolf
+- Position: Web3AR Developer
+- GitHub Profile: [Frank Bevr](https://github.com/frankbevr)
 - Social Media Links:
-    - X: [https://twitter.com/paritytech](https://twitter.com/paritytech)
-    - LinkedIn: [https://www.linkedin.com/company/paritytech/](https://www.linkedin.com/company/paritytech/)
-    - ... any others you want to share
-- Personal Site: [https://www.parity.io/](https://www.parity.io/)
-- Blog: [https://www.parity.io/blog/](https://www.parity.io/blog/)
+  - Discord: `FrankBevr`
+  - Telegram: `@FrankBevr`
+  - E-mail: `frank_dierolf@web.de`
 
 ## Contributing
 
@@ -92,4 +92,3 @@ Once your pull request is merged, your profile will be visible in the list!
 ## License
 
 This project is licensed under the terms of the MIT license. Please see [LICENSE](../LICENSE) for more details.
-
