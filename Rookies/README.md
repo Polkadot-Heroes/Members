@@ -20,7 +20,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `frank_dierolf@web.de`
 
 
-## Fenn Ignatius Saji
+### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
 
 - Name: Fenn Ignatius Saji
