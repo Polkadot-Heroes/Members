@@ -18,7 +18,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
     - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
     - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
 
-
 ### Frank Dierolf
 <img src="./images/frank.png" width="100"/>
 
@@ -30,6 +29,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
 
+### Salil Dinesh Apte
+<img src="./images/salil.jpg" width="100"/>
+
+- Name: Salil
+- Position: Substrate Developer
+- GitHub Profile: [https://github.com/pallasite99](https://github.com/pallasite99)
+- Social Media Links:
+    - X: [https://twitter.com/pallasite99](https://twitter.com/pallasite99)
+    - LinkedIn: [https://www.linkedin.com/in/salil-apte](https://www.linkedin.com/in/salil-apte)
+- Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
+- Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
 ## Contributing
 
