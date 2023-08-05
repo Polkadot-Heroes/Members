@@ -41,6 +41,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
+### Usama Ali
+<img src="./images/usama.jpeg" width="100">
+
+- Name: Usama Ali
+- Position: Rust Substrate Developer
+- Github Profile: [Ali-Usama](https://github.com/ali-usama)
+- Social Media Links:
+  - Discord: `bug_whisperer`
+  - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
