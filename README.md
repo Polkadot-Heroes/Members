@@ -53,7 +53,7 @@ Depending on what you enjoy doing, you can become a hero by doing some of the fo
 
 To register your interest in joining the program, fill out the sign up form [here](https://info.polkadot.network/polkadot-developer-heroes?ref=cms.polkadot.network). You will be contacted by a member of the team to discuss your application and next steps after an initial review.
 
-In the meantime, you can see who are the current [Rookies](Members/Rookies/README.md) and [Heroes](Members/Heroes/README.md) listed in this repository!
+In the meantime, you can see who are the current [Rookies](Rookies/README.md) and [Heroes](Heroes/README.md) listed in this repository!
 
 ### Self-Nomination as a Hero
 
