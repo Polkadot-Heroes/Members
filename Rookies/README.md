@@ -30,7 +30,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `frank_dierolf@web.de`
 
 ### Oliver
-<img src="./images/olaf.jpg" width="100"/>
+<img src="./images/olaf.png" width="100"/>
 
 - Name: Oliver Lim
 - Position: Rust/Substrate developer
