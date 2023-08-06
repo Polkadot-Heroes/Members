@@ -41,6 +41,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
+### Oliver
+<img src="./images/olaf.jpg" width="100"/>
+
+- Name: Oliver Lim
+- Position: Rust/Substrate developer
+- GitHub Profile: [https://github.com/cute0laf](https://github.com/fennsaji)
+- Social Media Links:
+    - Discord: `cute0laf`
+    - Telegram: `@cuteolaf`
+    - E-mail: `oliverlim818@gmail.com`
+    - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
