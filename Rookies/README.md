@@ -28,6 +28,20 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `FrankBevr`
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
+### John Rhodel Bartolome
+<img src="./images/johnrhodelbartolome.jpg" width="100"/>
+
+- Name: John Rhodel Bartolome
+- Position: Substrate/Ink Apprentice
+- GitHub Profile: [https://github.com/johnrhodel](https://github.com/johnrhodel)
+- Social Media Links:
+    - X: [https://twitter.com/parachainboy](https://twitter.com/parachainboy)
+    - LinkedIn: [https://www.linkedin.com/in/johnrhodel/?locale=en_US](https://www.linkedin.com/in/johnrhodel/?locale=en_US)
+    - Discord: `johnrhodel`
+    - Telegram: `@parachainboy`
+    - E-mail: `johnrhodelbartolome@gmail.com`
+- Youtube: [https://www.youtube.com/@vdscripto](https://www.youtube.com/@vdscripto)
+- Blog: [https://medium.com/@verbodasabedoria](https://medium.com/@verbodasabedoria)
 
 ### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
