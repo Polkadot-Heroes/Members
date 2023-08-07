@@ -65,6 +65,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
+### Suraj Vijayan
+<img src="./images/suraj.jpg" width="100"/>
+
+- Name: Suraj Vijayan
+- Position: Full Stack Developer (Js, Rust) | Undergraduate (CSE)
+- GitHub Profile: [its-me-sv](https://github.com/its-me-sv)
+- Social Media Links:
+    - X: [surajvijay67](https://twitter.com/surajvijay67)
+    - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
+- Personal Site: [surajvijayan.me](https://surajvijayan.me)
+- Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
