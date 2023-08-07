@@ -21,7 +21,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
 
 ### Andrew Arutiunian
-<img src="./images/AndrewAr.jpg" width="100"/>
+<img src="./images/andrewar.png" width="100"/>
 
 - Name: Andrew Arutiunian
 - Position: CS Student
