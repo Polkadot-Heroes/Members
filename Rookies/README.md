@@ -99,6 +99,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `bug_whisperer`
   - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
 
+
+### Chinedu E. Nwadike
+<img src="./images/kombi.jpeg" width="100">
+
+- Name: Chinedu E. Nwadike
+- Position: Software Engineer
+- Github Profile: [cenwadike](https://github.com/cenwadike)
+- Social Media Links:
+  - Discord: `kombi#0548`
+  - Telegram: `@kombi16`
+  - E-mail: `chinedunwadike04@gmail.com`
+  - Linkedin: [Chinedu Emmanuel Nwadike](https://www.linkedin.com/in/cenwadike)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
