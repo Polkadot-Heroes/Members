@@ -8,6 +8,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 
 ## Rookies List
 
+### Adel Arja
+<img src="./images/adel.jpg" width="100"/>
+
+- Name: Adel Arja
+- Position: Blockchain Engineer at [Pendulum](https://pendulumchain.org/)
+- GitHub Profile: [adelarja](https://github.com/adelarja)
+- Social Media Links:
+  - Discord: `adelarja#8195`
+  - Telegram: `@adelarja`
+  - Element: `@adelarja:matrix.org`
+  - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
+
 ### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
 
