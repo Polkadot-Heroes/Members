@@ -53,6 +53,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `mark@theblokc.com`
   - Personal: [https://link.theblokc.com/mh](https://link.theblokc.com/mh)
 
+### Oliver
+<img src="./images/olaf.png" width="100"/>
+
+- Name: Oliver Lim
+- Position: Rust/Substrate developer
+- GitHub Profile: [https://github.com/cute0laf](https://github.com/fennsaji)
+- Social Media Links:
+    - Discord: `cute0laf`
+    - Telegram: `@cuteolaf`
+    - E-mail: `oliverlim818@gmail.com`
+    - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
+
 ### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
 
