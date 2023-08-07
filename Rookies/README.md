@@ -99,6 +99,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `bug_whisperer`
   - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
 
+### Matias Zabala
+<img src="./images/matias.jpg/" width="100"/>
+
+- Name: Matias Zabala
+- Position: Front End Developer
+- GitHub Profile: [https://github.com/0xMatiz](https://github.com/0xMatiz)
+- Social Media Links:
+    - Telegram: `@OxMatiz`
+    - X: [https://twitter.com/0xMatiz_](https://twitter.com/0xMatiz_)
+    - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
