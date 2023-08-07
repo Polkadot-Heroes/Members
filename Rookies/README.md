@@ -20,6 +20,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Element: `@adelarja:matrix.org`
   - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
 
+### Chinedu E. Nwadike
+<img src="./images/kombi.jpeg" width="100">
+
+- Name: Chinedu E. Nwadike
+- Position: Software Engineer
+- Github Profile: [cenwadike](https://github.com/cenwadike)
+- Social Media Links:
+  - Discord: `kombi#0548`
+  - Telegram: `@kombi16`
+  - E-mail: `chinedunwadike04@gmail.com`
+  - Linkedin: [Chinedu Emmanuel Nwadike](https://www.linkedin.com/in/cenwadike)
+
 ### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
 
@@ -99,18 +111,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `bug_whisperer`
   - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
 
-
-### Chinedu E. Nwadike
-<img src="./images/kombi.jpeg" width="100">
-
-- Name: Chinedu E. Nwadike
-- Position: Software Engineer
-- Github Profile: [cenwadike](https://github.com/cenwadike)
-- Social Media Links:
-  - Discord: `kombi#0548`
-  - Telegram: `@kombi16`
-  - E-mail: `chinedunwadike04@gmail.com`
-  - Linkedin: [Chinedu Emmanuel Nwadike](https://www.linkedin.com/in/cenwadike)
 
 ## Contributing
 
