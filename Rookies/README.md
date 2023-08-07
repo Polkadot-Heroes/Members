@@ -8,6 +8,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 
 ## Rookies List
 
+### Adel Arja
+<img src="./images/adel.jpg" width="100"/>
+
+- Name: Adel Arja
+- Position: Blockchain Engineer at [Pendulum](https://pendulumchain.org/)
+- GitHub Profile: [adelarja](https://github.com/adelarja)
+- Social Media Links:
+  - Discord: `adelarja#8195`
+  - Telegram: `@adelarja`
+  - Element: `@adelarja:matrix.org`
+  - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
+
 ### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
 
@@ -29,6 +41,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
 
+### Mark Hugh Neri
+<img src="./images/markhughneri.jpg" width="100"/>
+
+- Name: Mark Hugh Neri
+- Position: Blockchain Developer & CTO at The BLOKC
+- GitHub Profile: [kimerran](https://github.com/kimerran)
+- Social Media Links:
+  - Discord: `k1merran`
+  - X: [https://twitter.com/k1merran](https://twitter.com/k1merran)
+  - E-mail: `mark@theblokc.com`
+  - Personal: [https://link.theblokc.com/mh](https://link.theblokc.com/mh)
+
 ### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
 
@@ -36,10 +60,22 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Substrate Developer
 - GitHub Profile: [https://github.com/pallasite99](https://github.com/pallasite99)
 - Social Media Links:
-    - X: [https://twitter.com/pallasite99](https://twitter.com/pallasite99)
-    - LinkedIn: [https://www.linkedin.com/in/salil-apte](https://www.linkedin.com/in/salil-apte)
+  - X: [https://twitter.com/pallasite99](https://twitter.com/pallasite99)
+  - LinkedIn: [https://www.linkedin.com/in/salil-apte](https://www.linkedin.com/in/salil-apte)
 - Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
+
+### Suraj Vijayan
+<img src="./images/suraj.jpg" width="100"/>
+
+- Name: Suraj Vijayan
+- Position: Full Stack Developer (Js, Rust) | Undergraduate (CSE)
+- GitHub Profile: [its-me-sv](https://github.com/its-me-sv)
+- Social Media Links:
+    - X: [surajvijay67](https://twitter.com/surajvijay67)
+    - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
+- Personal Site: [surajvijayan.me](https://surajvijayan.me)
+- Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
 
 ### Usama Ali
 <img src="./images/usama.jpeg" width="100">
