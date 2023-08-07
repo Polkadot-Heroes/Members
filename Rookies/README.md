@@ -41,6 +41,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
 
+### Mark Hugh Neri
+<img src="./images/markhughneri.jpg" width="100"/>
+
+- Name: Mark Hugh Neri
+- Position: Blockchain Developer & CTO at The BLOKC
+- GitHub Profile: [kimerran](https://github.com/kimerran)
+- Social Media Links:
+  - Discord: `k1merran`
+  - X: [https://twitter.com/k1merran](https://twitter.com/k1merran)
+  - E-mail: `mark@theblokc.com`
+  - Personal: [https://link.theblokc.com/mh](https://link.theblokc.com/mh)
+
 ### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
 
@@ -48,8 +60,8 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Substrate Developer
 - GitHub Profile: [https://github.com/pallasite99](https://github.com/pallasite99)
 - Social Media Links:
-    - X: [https://twitter.com/pallasite99](https://twitter.com/pallasite99)
-    - LinkedIn: [https://www.linkedin.com/in/salil-apte](https://www.linkedin.com/in/salil-apte)
+  - X: [https://twitter.com/pallasite99](https://twitter.com/pallasite99)
+  - LinkedIn: [https://www.linkedin.com/in/salil-apte](https://www.linkedin.com/in/salil-apte)
 - Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
