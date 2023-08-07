@@ -20,6 +20,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Element: `@adelarja:matrix.org`
   - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
 
+### Andrew Arutiunian
+<img src="./images/AndrewAr.jpg" width="100"/>
+
+- Name: Andrew Arutiunian
+- Position: CS Student
+- GitHub Profile: [siguint](https://github.com/siguint)
+- Social Media Links:
+  - Discord: `siguint`
+  - Telegram: `@siguint`
+  - E-mail: `andrew.arutiunian@gmail.com`
+
 ### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
 
