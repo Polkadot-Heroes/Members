@@ -20,6 +20,20 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Element: `@adelarja:matrix.org`
   - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
 
+### Alessio Giannini
+<img src="./images/alessio.jpg" width="100"/>
+
+- Name: Alessio Giannini
+- Position: Full Stack Developer at [MainProject](https://www.mainproject.it/)
+- GitHub Profile: [aleGiannini](https://github.com/aleGiannini)
+- Social Media Links:
+  - Discord: `alessiog1ann1n1`
+  - Telegram: `@ThePr1nce99`
+  - Element: `@aless10:matrix.org`
+  - E-mail: `alessiogiannini99@gmail.com`
+  - LinkedIn: [Alessio Giannini](https://www.linkedin.com/in/alessio-giannini-973787173/)
+
+
 ### Chinedu E. Nwadike
 <img src="./images/kombi.jpeg" width="100">
 
