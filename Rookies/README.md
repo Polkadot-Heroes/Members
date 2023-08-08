@@ -53,7 +53,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `mark@theblokc.com`
   - Personal: [https://link.theblokc.com/mh](https://link.theblokc.com/mh)
 
-  ### Matias Zabala
+### Matias Zabala
 <img src="./images/matias.jpg/" width="100"/>
 
 - Name: Matias Zabala
