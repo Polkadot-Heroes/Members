@@ -79,6 +79,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `mark@theblokc.com`
   - Personal: [https://link.theblokc.com/mh](https://link.theblokc.com/mh)
 
+### Matias Zabala
+<img src="./images/matias.jpg/" width="100"/>
+
+- Name: Matias Zabala
+- Position: Front End Developer
+- GitHub Profile: [https://github.com/0xMatiz](https://github.com/0xMatiz)
+- Social Media Links:
+    - Telegram: `@OxMatiz`
+    - X: [https://twitter.com/0xMatiz_](https://twitter.com/0xMatiz_)
+    - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
+
 ### Oliver
 <img src="./images/olaf.png" width="100"/>
 
