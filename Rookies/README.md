@@ -33,6 +33,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `alessiogiannini99@gmail.com`
   - LinkedIn: [Alessio Giannini](https://www.linkedin.com/in/alessio-giannini-973787173/)
 
+### Andrew Arutiunian
+<img src="./images/andrewar.png" width="100"/>
+
+- Name: Andrew Arutiunian
+- Position: CS Student
+- GitHub Profile: [siguint](https://github.com/siguint)
+- Social Media Links:
+  - Discord: `siguint`
+  - Telegram: `@siguint`
+  - E-mail: `andrew.arutiunian@gmail.com`
 
 ### Chinedu E. Nwadike
 <img src="./images/kombi.jpeg" width="100">
@@ -92,6 +102,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - X: [https://twitter.com/k1merran](https://twitter.com/k1merran)
   - E-mail: `mark@theblokc.com`
   - Personal: [https://link.theblokc.com/mh](https://link.theblokc.com/mh)
+
+### Matias Zabala
+<img src="./images/matias.jpg/" width="100"/>
+
+- Name: Matias Zabala
+- Position: Front End Developer
+- GitHub Profile: [https://github.com/0xMatiz](https://github.com/0xMatiz)
+- Social Media Links:
+    - Telegram: `@OxMatiz`
+    - X: [https://twitter.com/0xMatiz_](https://twitter.com/0xMatiz_)
+    - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
 
 ### Oliver
 <img src="./images/olaf.png" width="100"/>
