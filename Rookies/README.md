@@ -20,6 +20,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Element: `@adelarja:matrix.org`
   - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
 
+### Adrian Montero
+<img src="./images/adrian.jpg" width="100"/>
+
+- Name: Adrian Montero
+- Position: PhD Student in Computational Physics
+- GitHub Profile: [A-mont](https://github.com/A-mont)
+- Social Media Links:
+  - Discord: `a_mont`
+  - Telegram: `@A-mont`
+  - Element: `@amont24:matrix.org`
+  - LinkedIn: [A-mont](https://www.linkedin.com/in/adri%C3%A1n-montero-312520248/)
+
 ### Alessio Giannini
 <img src="./images/alessio.jpg" width="100"/>
 
