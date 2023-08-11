@@ -172,6 +172,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `bug_whisperer`
   - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
 
+### Winnie Ndung'u
+<img src="./images/winnie.jpg" width="100">
+
+- Name: Winnie Ndung'u
+- Position: Software Engineer
+- Github Profile: [nyambura00](https://github.com/nyambura00)
+- Social Media Links:
+  - Discord: `nyambura00`
+  - Linkedin: [Winnie Ndung'u](https://www.linkedin.com/in/winnie-nyambura/)
+
 
 ## Contributing
 
