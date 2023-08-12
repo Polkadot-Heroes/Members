@@ -9,6 +9,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 ## Rookies List
 
 ### Adel Arja
+
 <img src="./images/adel.jpg" width="100"/>
 
 - Name: Adel Arja
@@ -21,6 +22,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - LinkedIn: [Adel Arja](https://www.linkedin.com/in/adel-arja-68001158/)
 
 ### Adrian Montero
+
 <img src="./images/adrian.jpg" width="100"/>
 
 - Name: Adrian Montero
@@ -33,6 +35,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - LinkedIn: [A-mont](https://www.linkedin.com/in/adri%C3%A1n-montero-312520248/)
 
 ### Alessio Giannini
+
 <img src="./images/alessio.jpg" width="100"/>
 
 - Name: Alessio Giannini
@@ -46,6 +49,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - LinkedIn: [Alessio Giannini](https://www.linkedin.com/in/alessio-giannini-973787173/)
 
 ### Andrew Arutiunian
+
 <img src="./images/andrewar.png" width="100"/>
 
 - Name: Andrew Arutiunian
@@ -57,6 +61,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `andrew.arutiunian@gmail.com`
 
 ### Chinedu E. Nwadike
+
 <img src="./images/kombi.jpeg" width="100">
 
 - Name: Chinedu E. Nwadike
@@ -69,16 +74,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Linkedin: [Chinedu Emmanuel Nwadike](https://www.linkedin.com/in/cenwadike)
 
 ### Fenn Ignatius Saji
+
 <img src="./images/fenn.jpg" width="100"/>
 
 - Name: Fenn Ignatius Saji
 - Position: Lead Blockchain Developer
 - GitHub Profile: [https://github.com/fennsaji](https://github.com/fennsaji)
 - Social Media Links:
-    - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
-    - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
+  - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
+  - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
 
 ### Frank Dierolf
+
 <img src="./images/frank.png" width="100"/>
 
 - Name: Frank Dierolf
@@ -88,22 +95,25 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `FrankBevr`
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
+
 ### John Rhodel Bartolome
+
 <img src="./images/johnrhodelbartolome.jpg" width="100"/>
 
 - Name: John Rhodel Bartolome
 - Position: Substrate/Ink Apprentice
 - GitHub Profile: [https://github.com/johnrhodel](https://github.com/johnrhodel)
 - Social Media Links:
-    - X: [https://twitter.com/parachainboy](https://twitter.com/parachainboy)
-    - LinkedIn: [https://www.linkedin.com/in/johnrhodel/?locale=en_US](https://www.linkedin.com/in/johnrhodel/?locale=en_US)
-    - Discord: `johnrhodel`
-    - Telegram: `@parachainboy`
-    - E-mail: `johnrhodelbartolome@gmail.com`
+  - X: [https://twitter.com/parachainboy](https://twitter.com/parachainboy)
+  - LinkedIn: [https://www.linkedin.com/in/johnrhodel/?locale=en_US](https://www.linkedin.com/in/johnrhodel/?locale=en_US)
+  - Discord: `johnrhodel`
+  - Telegram: `@parachainboy`
+  - E-mail: `johnrhodelbartolome@gmail.com`
 - Youtube: [https://www.youtube.com/@vdscripto](https://www.youtube.com/@vdscripto)
 - Blog: [https://medium.com/@verbodasabedoria](https://medium.com/@verbodasabedoria)
 
 ### Mark Hugh Neri
+
 <img src="./images/markhughneri.jpg" width="100"/>
 
 - Name: Mark Hugh Neri
@@ -116,29 +126,32 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Personal: [https://link.theblokc.com/mh](https://link.theblokc.com/mh)
 
 ### Matias Zabala
+
 <img src="./images/matias.jpg/" width="100"/>
 
 - Name: Matias Zabala
 - Position: Front End Developer
 - GitHub Profile: [https://github.com/0xMatiz](https://github.com/0xMatiz)
 - Social Media Links:
-    - Telegram: `@OxMatiz`
-    - X: [https://twitter.com/0xMatiz_](https://twitter.com/0xMatiz_)
-    - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
+  - Telegram: `@OxMatiz`
+  - X: [https://twitter.com/0xMatiz\_](https://twitter.com/0xMatiz_)
+  - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
 
 ### Oliver
+
 <img src="./images/olaf.png" width="100"/>
 
 - Name: Oliver Lim
 - Position: Rust/Substrate developer
 - GitHub Profile: [https://github.com/cute0laf](https://github.com/fennsaji)
 - Social Media Links:
-    - Discord: `cute0laf`
-    - Telegram: `@cuteolaf`
-    - E-mail: `oliverlim818@gmail.com`
-    - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
+  - Discord: `cute0laf`
+  - Telegram: `@cuteolaf`
+  - E-mail: `oliverlim818@gmail.com`
+  - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
 
 ### Salil Dinesh Apte
+
 <img src="./images/salil.jpg" width="100"/>
 
 - Name: Salil
@@ -151,18 +164,20 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
 ### Suraj Vijayan
+
 <img src="./images/suraj.jpg" width="100"/>
 
 - Name: Suraj Vijayan
 - Position: Full Stack Developer (Js, Rust) | Undergraduate (CSE)
 - GitHub Profile: [its-me-sv](https://github.com/its-me-sv)
 - Social Media Links:
-    - X: [surajvijay67](https://twitter.com/surajvijay67)
-    - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
+  - X: [surajvijay67](https://twitter.com/surajvijay67)
+  - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
 - Personal Site: [surajvijayan.me](https://surajvijayan.me)
 - Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
 
 ### Usama Ali
+
 <img src="./images/usama.jpeg" width="100">
 
 - Name: Usama Ali
@@ -173,15 +188,28 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
 
 ### Winnie Ndung'u
+
 <img src="./images/winnie.jpg" width="100">
 
 - Name: Winnie Ndung'u
 - Position: Software Engineer
 - Github Profile: [nyambura00](https://github.com/nyambura00)
 - Social Media Links:
+
   - Discord: `nyambura00`
   - Linkedin: [Winnie Ndung'u](https://www.linkedin.com/in/winnie-nyambura/)
 
+  ### Raphael Nembhard
+
+  <img src="./images/RaphaelNembhard.JPG" width="100">
+
+  - Name: Raphael Nembhard
+  - Postion: Blockchain Engineer & Secuirty Researcher
+  - GitHub Profile: [DeluxeRaph](https://github.com/DeluxeRaph)
+  - Social Media Links:
+  - Twitter: `@VillageFarmerr`
+  - Discord: `VillagerFarmer`
+  - LinkedIn: [Adel Arja](https://www.linkedin.com/in/raphael-nembhard-701b41180)
 
 ## Contributing
 
