@@ -112,6 +112,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Youtube: [https://www.youtube.com/@vdscripto](https://www.youtube.com/@vdscripto)
 - Blog: [https://medium.com/@verbodasabedoria](https://medium.com/@verbodasabedoria)
 
+### Luke Schoen
+
+<img src="./images/piggy.png" width="100"/>
+
+- Name: Luke Schoen
+- Position: Substrate/ink! developer
+- GitHub Profile: [ltfschoen](https://github.com/ltfschoen)
+- Social Media Links:
+  - X: [https://twitter.com/ltfschoen](https://twitter.com/ltfschoen)
+  - LinkedIn: [https://www.linkedin.com/in/ltfschoen](https://www.linkedin.com/in/ltfschoen/)
+
 ### Mark Hugh Neri
 
 <img src="./images/markhughneri.jpg" width="100"/>
@@ -149,6 +160,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@cuteolaf`
   - E-mail: `oliverlim818@gmail.com`
   - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
+
+### Raphael Nembhard
+
+<img src="./images/RaphaelNembhard.JPG" width="100">
+
+- Name: Raphael Nembhard
+- Postion: Blockchain Engineer & Secuirty Researcher
+- GitHub Profile: [DeluxeRaph](https://github.com/DeluxeRaph)
+- Social Media Links:
+  - Twitter: `@VillageFarmerr`
+  - Discord: `VillagerFarmer`
+  - LinkedIn: [Raphael Nembhard](https://www.linkedin.com/in/raphael-nembhard-701b41180)
 
 ### Salil Dinesh Apte
 
@@ -195,21 +218,8 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Software Engineer
 - Github Profile: [nyambura00](https://github.com/nyambura00)
 - Social Media Links:
-
   - Discord: `nyambura00`
   - Linkedin: [Winnie Ndung'u](https://www.linkedin.com/in/winnie-nyambura/)
-
-  ### Raphael Nembhard
-
-  <img src="./images/RaphaelNembhard.JPG" width="100">
-
-  - Name: Raphael Nembhard
-  - Postion: Blockchain Engineer & Secuirty Researcher
-  - GitHub Profile: [DeluxeRaph](https://github.com/DeluxeRaph)
-  - Social Media Links:
-  - Twitter: `@VillageFarmerr`
-  - Discord: `VillagerFarmer`
-  - LinkedIn: [Adel Arja](https://www.linkedin.com/in/raphael-nembhard-701b41180)
 
 ## Contributing
 
