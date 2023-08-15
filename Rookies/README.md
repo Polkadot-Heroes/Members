@@ -103,6 +103,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Youtube: [https://www.youtube.com/@vdscripto](https://www.youtube.com/@vdscripto)
 - Blog: [https://medium.com/@verbodasabedoria](https://medium.com/@verbodasabedoria)
 
+### Luke Schoen
+<img src="./images/piggy.png" width="100"/>
+
+- Name: Luke Schoen
+- Position: Substrate/ink! developer
+- GitHub Profile: [ltfschoen](https://github.com/ltfschoen)
+- Social Media Links:
+  - X: [https://twitter.com/ltfschoen](https://twitter.com/ltfschoen)
+  - LinkedIn: [https://www.linkedin.com/in/ltfschoen](https://www.linkedin.com/in/ltfschoen/)
+
 ### Mark Hugh Neri
 <img src="./images/markhughneri.jpg" width="100"/>
 
