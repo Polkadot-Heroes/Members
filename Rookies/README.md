@@ -75,8 +75,8 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Lead Blockchain Developer
 - GitHub Profile: [https://github.com/fennsaji](https://github.com/fennsaji)
 - Social Media Links:
-    - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
-    - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
+  - X: [https://twitter.com/fenn_saji](https://twitter.com/fenn_saji)
+  - LinkedIn: [https://www.linkedin.com/in/fennsaji/](https://www.linkedin.com/in/fennsaji/)
 
 ### Frank Dierolf
 <img src="./images/frank.png" width="100"/>
@@ -88,6 +88,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `FrankBevr`
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
+
 ### John Rhodel Bartolome
 <img src="./images/johnrhodelbartolome.jpg" width="100"/>
 
@@ -95,11 +96,11 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Substrate/Ink Apprentice
 - GitHub Profile: [https://github.com/johnrhodel](https://github.com/johnrhodel)
 - Social Media Links:
-    - X: [https://twitter.com/parachainboy](https://twitter.com/parachainboy)
-    - LinkedIn: [https://www.linkedin.com/in/johnrhodel/?locale=en_US](https://www.linkedin.com/in/johnrhodel/?locale=en_US)
-    - Discord: `johnrhodel`
-    - Telegram: `@parachainboy`
-    - E-mail: `johnrhodelbartolome@gmail.com`
+  - X: [https://twitter.com/parachainboy](https://twitter.com/parachainboy)
+  - LinkedIn: [https://www.linkedin.com/in/johnrhodel/?locale=en_US](https://www.linkedin.com/in/johnrhodel/?locale=en_US)
+  - Discord: `johnrhodel`
+  - Telegram: `@parachainboy`
+  - E-mail: `johnrhodelbartolome@gmail.com`
 - Youtube: [https://www.youtube.com/@vdscripto](https://www.youtube.com/@vdscripto)
 - Blog: [https://medium.com/@verbodasabedoria](https://medium.com/@verbodasabedoria)
 
@@ -132,9 +133,9 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Front End Developer
 - GitHub Profile: [https://github.com/0xMatiz](https://github.com/0xMatiz)
 - Social Media Links:
-    - Telegram: `@OxMatiz`
-    - X: [https://twitter.com/0xMatiz_](https://twitter.com/0xMatiz_)
-    - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
+  - Telegram: `@OxMatiz`
+  - X: [https://twitter.com/0xMatiz\_](https://twitter.com/0xMatiz_)
+  - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
 
 ### Oliver
 <img src="./images/olaf.png" width="100"/>
@@ -143,10 +144,21 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Rust/Substrate developer
 - GitHub Profile: [https://github.com/cute0laf](https://github.com/fennsaji)
 - Social Media Links:
-    - Discord: `cute0laf`
-    - Telegram: `@cuteolaf`
-    - E-mail: `oliverlim818@gmail.com`
-    - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
+  - Discord: `cute0laf`
+  - Telegram: `@cuteolaf`
+  - E-mail: `oliverlim818@gmail.com`
+  - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
+
+### Raphael Nembhard
+<img src="./images/RaphaelNembhard.JPG" width="100">
+
+- Name: Raphael Nembhard
+- Postion: Blockchain Engineer & Secuirty Researcher
+- GitHub Profile: [DeluxeRaph](https://github.com/DeluxeRaph)
+- Social Media Links:
+  - Twitter: `@VillageFarmerr`
+  - Discord: `VillagerFarmer`
+  - LinkedIn: [Raphael Nembhard](https://www.linkedin.com/in/raphael-nembhard-701b41180)
 
 ### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
@@ -167,8 +179,8 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Position: Full Stack Developer (Js, Rust) | Undergraduate (CSE)
 - GitHub Profile: [its-me-sv](https://github.com/its-me-sv)
 - Social Media Links:
-    - X: [surajvijay67](https://twitter.com/surajvijay67)
-    - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
+  - X: [surajvijay67](https://twitter.com/surajvijay67)
+  - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
 - Personal Site: [surajvijayan.me](https://surajvijayan.me)
 - Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
 
@@ -191,7 +203,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Social Media Links:
   - Discord: `nyambura00`
   - Linkedin: [Winnie Ndung'u](https://www.linkedin.com/in/winnie-nyambura/)
-
 
 ## Contributing
 
