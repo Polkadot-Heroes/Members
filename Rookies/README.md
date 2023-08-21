@@ -89,6 +89,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
 
+### Gianluigi Davassi
+<img src="./images/gian.jpg" width="100"/>
+
+- Name: Gianluigi Davassi
+- Position: Tech Enterpreneur and Software Developer
+- GitHub Profile: [Gianluigi Davassi](https://github.com/davassi)
+- Social Media Links:
+  - LinkedIn: [https://www.linkedin.com/in/gianluigidavassi/](https://www.linkedin.com/in/gianluigidavassi/)
+  - E-mail: `gianluigi@honos.finance`
+
 ### John Rhodel Bartolome
 <img src="./images/johnrhodelbartolome.jpg" width="100"/>
 
