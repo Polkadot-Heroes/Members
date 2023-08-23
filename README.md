@@ -27,6 +27,8 @@ The program provides:
 * Chance to showcase and enhance skills.
 * Establish yourself as a valued contributor to the Polkadot ecosystem and pull someone else up on stage at the same time. Each one, teach one!
 
+You can learn more about the team behind the program [here](https://www.notion.so/polkadotheroes/Our-team-fd573679dc5d4df0a732bc488c318547).
+
 ### Rookies and Heroes
 
 *From the [Polkadot Wiki](https://wiki.polkadot.network/docs/dev-heroes):*
