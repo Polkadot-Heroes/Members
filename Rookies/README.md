@@ -214,6 +214,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `nyambura00`
   - Linkedin: [Winnie Ndung'u](https://www.linkedin.com/in/winnie-nyambura/)
 
+### Chengcheng Shi
+<img src="./images/Chengcheng-Shi.jpg" width="100"/>
+
+- Name: Chengcheng Shi
+- Position: Blockchain Engineer
+- GitHub Profile: [Chengcheng-S](https://github.com/Chengcheng-S)
+- Social Media Links:
+  - Discord: `cheng_shi`
+  - Telegram: `@shi_chengc`
+  - LinkedIn: [师琤琤](https://www.linkedin.com/in/%E7%90%A4%E7%90%A4-%E5%B8%88-b64586269/)
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
