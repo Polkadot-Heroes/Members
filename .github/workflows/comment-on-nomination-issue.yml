@@ -1,4 +1,4 @@
-name: Add comment
+name: Add comment to new Hero nomination
 on:
   issues:
     types:
