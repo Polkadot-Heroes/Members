@@ -6,7 +6,7 @@ This program aims to give more power to Polkadot developers and unlock their pot
 
 [Sign up to become a candidate!](https://info.polkadot.network/polkadot-developer-heroes?ref=cms.polkadot.network)
 
-## Table of Conetents
+## Table of Contents
 
 - [What is the program?](#what-is-the-program)
 - [How to become a Polkadot Developer Hero?](#how-to-become-a-polkadot-developer-hero)

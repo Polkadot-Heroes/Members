@@ -174,7 +174,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 <img src="./images/RaphaelNembhard.JPG" width="100">
 
 - Name: Raphael Nembhard
-- Postion: Blockchain Engineer & Secuirty Researcher
+- Postion: Blockchain Engineer & Security Researcher
 - GitHub Profile: [DeluxeRaph](https://github.com/DeluxeRaph)
 - Social Media Links:
   - Twitter: `@VillageFarmerr`
