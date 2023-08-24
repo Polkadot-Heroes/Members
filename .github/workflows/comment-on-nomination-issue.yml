@@ -1,0 +1,36 @@
+name: Add comment
+on:
+  issues:
+    types:
+      - labeled
+  workflow_dispatch:
+  
+jobs:
+  add-comment:
+    if: github.event.label.name == 'nomination'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            Thank you for submitting a nomination for Hero status! :sparkles:
+
+            A word about the process:
+
+            The team reviews nominations *four* times a year in March, June, September and December.
+            We commit to responding to every nomination within two weeks after the review process has completed.
+
+            **How does this work?** :eyes:
+
+            If you submitted this nomination in February, then it will be reviewed in March. :raised_hands:
+            if you submitted this nomination in November, then it will be reviewed in December. :raised_hands:
+
+            As a reminder, the criteria for review and selection for Hero status is publicly available in this [GitHub repository](https://github.com/Polkadot-Heroes/Members/blob/main/Heroes_Review_Criteria.md).
+
+            You can continue to update your nomination form with new and relevant information up until the point of review.
+            
+            Have any questions? Please don't hesitate to [send us a message](mailto:heroes@parity.io)! :email:
