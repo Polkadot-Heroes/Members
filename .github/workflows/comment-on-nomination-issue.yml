@@ -3,6 +3,8 @@ on:
   issues:
     types:
       - labeled
+  workflow_dispatch:
+  
 jobs:
   add-comment:
     if: github.event.label.name == 'nomination'
