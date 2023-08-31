@@ -196,6 +196,15 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 ### Suraj Vijayan
 <img src="./images/suraj.jpg" width="100"/>
 
+- Name: Suraj Vijayan
+- Position: Full Stack Developer (Js, Rust) | Undergraduate (CSE)
+- GitHub Profile: [its-me-sv](https://github.com/its-me-sv)
+- Social Media Links:
+  - X: [surajvijay67](https://twitter.com/surajvijay67)
+  - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
+- Personal Site: [surajvijayan.me](https://surajvijayan.me)
+- Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
+
 ### Tugwa Chinenye Victor
 <img src="./images/victor.jpeg" width="100"/>
 
@@ -206,15 +215,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - X: [Vickysnipes147] (https://twitter.com/vickysnipes147)
   - LinkedIn: [Victor Chinenye Tugwa] (https://www.linkedin.com/in/victor-tugwa-a26a68105/)
   - Discord: [vickysnipe]
-
-- Name: Suraj Vijayan
-- Position: Full Stack Developer (Js, Rust) | Undergraduate (CSE)
-- GitHub Profile: [its-me-sv](https://github.com/its-me-sv)
-- Social Media Links:
-  - X: [surajvijay67](https://twitter.com/surajvijay67)
-  - LinkedIn: [Suraj Vijay](https://www.linkedin.com/in/suraj-vijay-32b679224)
-- Personal Site: [surajvijayan.me](https://surajvijayan.me)
-- Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
 
 ### Usama Ali
 <img src="./images/usama.jpeg" width="100">
