@@ -135,6 +135,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - X: [https://twitter.com/ltfschoen](https://twitter.com/ltfschoen)
   - LinkedIn: [https://www.linkedin.com/in/ltfschoen](https://www.linkedin.com/in/ltfschoen/)
 
+### Marin Enault
+<img src="./images/marin.png/" width="100"/>
+
+- Name: Marin Enault
+- Position: Web3 Developer & CTO at The Great Escape
+- GitHub Profile: [https://github.com/mar1](https://github.com/mar1)
+- Social Media Links:
+  - Telegram: `@mar1dev`
+  - X: [https://twitter.com/mar1dev](https://twitter.com/mar1dev)
+  - Discord: `mar1n.`
+- Personal Site: [mar1.dev](https://mar1.dev)
+
 ### Mark Hugh Neri
 <img src="./images/markhughneri.jpg" width="100"/>
 
