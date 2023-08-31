@@ -205,6 +205,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [surajvijayan.me](https://surajvijayan.me)
 - Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
 
+### Tugwa Chinenye Victor
+<img src="./images/victor.jpeg" width="100"/>
+
+- Name: Tugwa Victor Chinenye
+- Position: Fullstack Developer
+- Github Profile: [Vickysnipe](https://github.com/Vickysnipe)
+- Social Media Links:
+  - X: [Vickysnipes147](https://twitter.com/vickysnipes147)
+  - LinkedIn: [Victor Chinenye Tugwa](https://www.linkedin.com/in/victor-tugwa-a26a68105/)
+  - Discord: [vickysnipe]
+
 ### Usama Ali
 <img src="./images/usama.jpeg" width="100">
 
