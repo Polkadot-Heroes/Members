@@ -196,6 +196,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 ### Suraj Vijayan
 <img src="./images/suraj.jpg" width="100"/>
 
+### Tugwa Chinenye Victor
+<img src="./images/victor.jpeg" width="100"/>
+
+- Name: Tugwa Victor Chinenye
+- Position: Fullstack Developer
+- Github Profile: [Vickysnipe] (https://github.com/Vickysnipe)
+- Social Media Links:
+  - X: [Vickysnipes147] (https://twitter.com/vickysnipes147)
+  - LinkedIn: [Victor Chinenye Tugwa] (https://www.linkedin.com/in/victor-tugwa-a26a68105/)
+  - Discord: [vickysnipe]
+
 - Name: Suraj Vijayan
 - Position: Full Stack Developer (Js, Rust) | Undergraduate (CSE)
 - GitHub Profile: [its-me-sv](https://github.com/its-me-sv)
