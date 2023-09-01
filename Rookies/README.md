@@ -248,6 +248,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `nyambura00`
   - Linkedin: [Winnie Ndung'u](https://www.linkedin.com/in/winnie-nyambura/)
 
+### Yury Yukhananov
+<img src="./images/yuryy.jpg" width="100">
+
+- Name: Yury Yukhananov
+- Position: Computer Engineer
+- Github Profile: [Retamogordo](https://github.com/Retamogordo)
+- Social Media Links:
+  - Email: `yury.yukhananov@tutanota.com`
+  - Telegram: `@yury_yukhananov`
+  - Linkedin: [Yury Yukhananov](https://www.linkedin.com/in/yury-yukhananov/)
 
 ## Contributing
 
