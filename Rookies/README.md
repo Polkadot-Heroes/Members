@@ -100,6 +100,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
 
+### Georgii Plotnikov
+<img src="./images/georgii.jpg" width="100">
+
+- Name: Georgii Plotnikov
+- Position: Software Developer
+- GitHub Profile: [georgeplotnikov](https://github.com/georgeplotnikov)
+- Social Media Links:
+  - X: [0xGeorgii](https://twitter.com/0xGeorgii)
+  - Telegram: [xGeorgii](https://t.me/xGeorgii)
+  - Discord: `.spaceinvader`
+- Personal Site: [georgeplotnikov.com](https://georgeplotnikov.com)
+
 ### Gianluigi Davassi
 <img src="./images/gian.jpg" width="100"/>
 
