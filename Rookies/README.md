@@ -229,6 +229,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [surajvijayan.me](https://surajvijayan.me)
 - Blog: [surajvijay@hashnode](https://surajvijay.hashnode.dev)
 
+### Tadej Rudel
+<img src="./images/tadej.jpeg" width="100">
+
+- Name: Tadej Rudel
+- Position: Software Engineer
+- Github Profile: [tad3j](https://github.com/tad3j)
+- Social Media Links:
+    - Twitter: `@_Tad3j_`
+    - Discord: `tadej.dev`
+    - Linkedin: [Tadej Rudel](https://www.linkedin.com/in/tadej-rudel-71934736/)
+
 ### Tugwa Chinenye Victor
 <img src="./images/victor.jpeg" width="100"/>
 
