@@ -217,6 +217,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
+### StarDev
+<img src="./images/stardev.png" width="100">
+
+- Name: StarDev
+- Position: Rust Substrate Developer
+- Github Profile: [Beardev118](https://github.com/Beardev118)
+- Social Media Links:
+  - Discord: `stardev8850`
+  - Telegram: `@GoldCat12499`
+
 ### Suraj Vijayan
 <img src="./images/suraj.jpg" width="100"/>
 
