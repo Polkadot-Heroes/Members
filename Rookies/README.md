@@ -302,6 +302,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@yury_yukhananov`
   - Linkedin: [Yury Yukhananov](https://www.linkedin.com/in/yury-yukhananov/)
 
+### Zian
+<img src="./images/zianksm.jpg" width="100"/>
+
+- Name: Johannes Agung Zhaan Kusuma
+- Position: Tech Lead at [Baliola](https://github.com/baliola)
+- GitHub Profile: [zianksm](https://github.com/zianksm)
+- Social Media Links:
+  - LinkedIn: [Johannes Agung Zhaan Kusuma ](https://www.linkedin.com/in/johannes-agung-zhaan-kusuma-758b1b239/)
+  - Discord: `zian0403`
+  - Telegram: `@zianksm`
+  - E-mail: `mynameiszian@gmail.com`
+
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
