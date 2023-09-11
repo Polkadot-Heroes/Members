@@ -249,6 +249,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
     - Twitter: `@_Tad3j_`
     - Discord: `tadej.dev`
     - Linkedin: [Tadej Rudel](https://www.linkedin.com/in/tadej-rudel-71934736/)
+ 
+### Tomas Rawski
+<img src="./images/tom.jpg" width="100"/>
+
+- Name: Tomas
+- Position: Blockchain Engineer 
+- GitHub Profile: [rtomas](https://github.com/rtomas)
+- Social Media Links:
+  - Telegram: `@tomraw`
+  - LinkedIn: https://www.linkedin.com/in/tomas-rawski/
 
 ### Tugwa Chinenye Victor
 <img src="./images/victor.jpeg" width="100"/>
