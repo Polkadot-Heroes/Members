@@ -17,7 +17,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Social Media Links:
   - Discord: `abdulbee`
   - Element: `@abdulbee:matrix.org`
-  - Twitter: DocAmoka
+  - Twitter: [DocAmoka](https://twitter.com/DocAmoka)
   - LinkedIn: [abdulbasitsadiq](https://www.linkedin.com/in/abdulbasitsadiq/)
 
 
