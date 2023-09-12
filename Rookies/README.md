@@ -217,6 +217,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Personal Site: [https://salil-apte.my.canva.site/](https://salil-apte.my.canva.site/)
 - Blog: [https://medium.com/@salilapte](https://medium.com/@salilapte)
 
+### Shin Takahashi
+<img src="./images/shintakahashi.jpeg" width="100"/>
+
+- Name: Shin Takahashi
+- Position: Software Engineer
+- GitHub Profile: [realtakahashi](https://github.com/realtakahashi)
+- Social Media Links:
+  - LinkedIn: [Shin Takahashi ](https://www.linkedin.com/in/%E7%9C%9F-%E9%AB%98%E6%A9%8B-255404170/)
+  - Discord: `s.takahashi#2365`
+  - Telegram: `@stakahashi`
+  - E-mail: `realtakahashi.work@gmail.com`
+
 ### StarDev
 <img src="./images/stardev.png" width="100">
 
@@ -314,17 +326,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
 
-### Shin Takahashi
-<img src="./images/shintakahashi.jpeg" width="100"/>
-
-- Name: Shin Takahashi
-- Position: Software Engineer
-- GitHub Profile: [realtakahashi](https://github.com/realtakahashi)
-- Social Media Links:
-  - LinkedIn: [Shin Takahashi ](https://www.linkedin.com/in/%E7%9C%9F-%E9%AB%98%E6%A9%8B-255404170/)
-  - Discord: `s.takahashi#2365`
-  - Telegram: `@stakahashi`
-  - E-mail: `realtakahashi.work@gmail.com`
 
 ## Contributing
 
