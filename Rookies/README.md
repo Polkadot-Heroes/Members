@@ -8,6 +8,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 
 ## Rookies List
 
+### Abdulbasit Sadiq
+<img src="./images/beee.jpg" width="100"/>
+
+- Name: Abdulbasit Sadiq
+- Position: Software engineer, technical writer
+- GitHub Profile: [abdbee](https://github.com/abdbee)
+- Social Media Links:
+  - Discord: `abdulbee`
+  - Element: `@abdulbee:matrix.org`
+  - Twitter: DocAmoka
+  - LinkedIn: [abdulbasitsadiq](https://www.linkedin.com/in/abdulbasitsadiq/)
+
+
 ### Adel Arja
 <img src="./images/adel.jpg" width="100"/>
 
