@@ -8,6 +8,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 
 ## Rookies List
 
+### Abdulaziz Kamil
+<img src="./images/Abdulaziz.png" width="100"/>
+
+- Name: Abdulaziz Kamil
+- Position: Software Engineering student @ALX, Content creator, MD
+- Github Profile: [abujulaibib](https://github.com/abujulaibib)
+- Social Media Links:
+  - Discord: `abujulaibib`
+  - X: [akdatti94](https://twitter.com/akdatti94)
+  - Element: `@abujulaibib:matrix.org`
+  - E-mail: `akdatti94@gmail.com`
+  - Linkedin: [Dr. Abdulaziz Kamil](https://www.linkedin.com/in/abdulaziz-kamil/)
+
 ### Abdulbasit Sadiq
 <img src="./images/beee.jpg" width="100"/>
 
