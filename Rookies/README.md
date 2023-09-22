@@ -150,6 +150,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Youtube: [https://www.youtube.com/@vdscripto](https://www.youtube.com/@vdscripto)
 - Blog: [https://medium.com/@verbodasabedoria](https://medium.com/@verbodasabedoria)
 
+### Kaloyan Gangov
+<img src="./images/kaloyan.jpg" width="100"/>
+
+- Name: Kaloyan Gangov
+- Position: Web2 Fullstack Developer/Smartcontracts developer 
+- GitHub Profile: [gangov](https://github.com/gangov)
+- Social Media Links:
+  - Discord: `munificent6864`
+  - LinkedIn: [gangov](https://www.linkedin.com/in/gangov/)
+
 ### Luke Schoen
 <img src="./images/piggy.png" width="100"/>
 
