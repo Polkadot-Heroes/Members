@@ -195,6 +195,20 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - X: [https://twitter.com/0xMatiz\_](https://twitter.com/0xMatiz_)
   - Linkedin: [https://www.linkedin.com/in/matias-zabala/](https://www.linkedin.com/in/matias-zabala/)
 
+### Nicolás Biondini
+<img src="./images/nicolas_biondini.jpg/" width="100"/>
+
+- Name: Nicolás Biondini
+- Position: Front-end Developer / Rust Developer
+- GitHub Profile: [NicolasBiondini](https://github.com/NicolasBiondini)
+- Social Media Links:
+  - X: [@BiondiniNicolas](https://twitter.com/BiondiniNicolas)
+  - Personal Site / Blog: [nicolasbiondini.com](https://nicolasbiondini.com/)
+  - E-mail: `nicolasbiondiniwork@gmail.com`
+  - Linkedin: [Nicolás Biondini](https://www.linkedin.com/in/nicolas-biondini/)
+  - Discord: `nbiondini`
+  - Telegram: `@Nbiondini`
+
 ### Oliver
 <img src="./images/olaf.png" width="100"/>
 
