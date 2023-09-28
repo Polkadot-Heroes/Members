@@ -6,7 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out your self-nomination to Hero status in the program! A Hero is someone who is actively advocating for the technology of the Polkadot ecosystem, including building independent Substrate chains, ink! development, building Polkadot-related tooling, etc., effectively spreading awareness and educating a broader audience about the technology.
+        Thanks for taking the time to fill out your self-nomination to Hero status in the program! 
+        A Hero is someone who is actively advocating for the technology of the Polkadot ecosystem, including building independent Substrate chains, ink! development, building Polkadot-related tooling, etc., effectively spreading awareness and educating a broader audience about the technology.
+        You can take a look at the scoring criteria [in the Scoring Guidelines](https://github.com/Polkadot-Heroes/Members/blob/main/Heroes_Review_Criteria.md).
   - type: markdown
     attributes:
       value: |
