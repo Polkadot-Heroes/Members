@@ -55,7 +55,11 @@ body:
     id: hackathon-participation
     attributes:
       label: Participation at a Polkadot hackathon (Polkadot-focused or has a Polkadot track)
-      description: Share with us the link(s) to hackathon(s) that you participated at in the past quarter.\n      - Any participation at a hackathon with a submitted project.\n      - Any hackathons you won with a submitted project. \n  Please provide us with link(s) to the hackathon and also to your submitted project(s).
+      description: 
+        - Share with us the link(s) to hackathon(s) that you participated at in the past quarter.
+        - Any participation at a hackathon with a submitted project.
+        - Any hackathons you won with a submitted project.
+          Please provide us with link(s) to the hackathon and also to your submitted project(s).
       placeholder: Add links to the hackathon(s) and your project(s) here.
     validations:
       required: true
