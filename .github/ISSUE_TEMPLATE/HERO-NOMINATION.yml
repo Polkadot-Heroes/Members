@@ -12,67 +12,105 @@ body:
       value: |
         Please fill out each section to the best of your ability. The more you are able to share the better our team is able to evaluate your self-nomination. For most questions we will be happy to see link(s), directing us to the right source of information for proof of your achievements.
   - type: textarea
-    id: code-contribution
+    id: code-contribution-polkadot-sdk
     attributes:
-      label: Code contributions
-      description: |
-        Share with us your substantial code contributions where your pull request has been merged to one or more of the followings.
-        The Polkadot SDK repository (Polkadot, Substrate, Cumulus).
-        Any open-source Substrate based chain project
-        Any popular open-source library or tool used within the Polkadot ecosystem (eg. libp2p, rust, WASM,...)
-        Any dapp within the Polkadot ecosystem.
-        Please share links to everything referenced. If it's not an open source project, please reach out to us separately.
-      placeholder: Add links to your code contributions here.
-    validations:
-      required: true
+      label: Code contribution to the Polkadot SDK repository
+      description: Share with us the links to GitHub repos where you have been a code contributor for more than one instance to a merged pull request to the Polkadot SDK repository (Polkadot, Substrate, Cumulus) in the past quarter.
+      placeholder: Add links to your code contribution(s) here.
+  - type: textarea
+    id: code-contribution-chain-project
+    attributes:
+      label: Code contribution to a Substrate-based chain project
+      description: Share with us the links to GitHub repos where you have been a code contributor for more than one instance to an open-source Substrate-based chain project in the past quarter.
+      placeholder: Add links to your code contribution(s) here.
+  - type: textarea
+    id: code-contribution-tool-library
+    attributes:
+      label: Code contribution to a tool or library
+      description: Share with us the links to GitHub repos where you have been a code contributor for more than one instance to a popular open-source library or tool used within the Polkadot ecosystem in the past quarter.
+      placeholder: Add links to your code contribution(s) here.
+  - type: textarea
+    id: code-contribution-dapp
+    attributes:
+      label: Code contribution to a dapp
+      description: Share with us the links to GitHub repos where you have been a code contributor for more than one instance to a dapp within the Polkadot ecosystem in the past quarter.
+      placeholder: Add links to your code contribution(s) here.  
   - type: textarea
     id: project-ownership
     attributes:
       label: Owned or maintained project(s)
       description: Share with us link(s) to any other open source Polkadot ecosystem project(s) that you own or maintain.
       placeholder: Add links to your project(s) here.
-    validations:
-      required: true
   - type: textarea
     id: technical-education
     attributes:
-      label: Technical education experience
-      description: Share with us event or GH link(s) to the followings, if you have experience with them.\n      - Coding workshop(s) or training session(s) on Polkadot and/or Rust in the past quarter\n      - More than one contribution to documentation for Polkadot or a Polkadot ecosystem project in the past quarter.\n      - Publication of a technical research paper or article about Rust or Polkadot with more than 60% of own content.\n      - Your StackExchange profile. 
-      placeholder: Add links to your past works here.
-    validations:
-      required: true
+      label: Coding workshops or training sessions 
+      description: Share with us links to events if you have taught a coding workshop or training session on Polkadot and/or Rust in the past quarter. 
+      placeholder: Add links to event(s) here.
+  - type: textarea
+    id: documentation-contribution
+    attributes:
+      label: Contribution to documentation
+      description: Share with us links to GitHub repos where you have been contributing more than once to the documentation within the Polkadot ecosystem in the past quarter. 
+      placeholder: Add links to your contribution(s) here.
+  - type: textarea
+    id: research-publication
+    attributes:
+      label: R&D
+      description: Share with us link(s) if you have published a technical research paper or article about Rust or Polkadot with more than 60% of your content.
+      placeholder: Add links to your publication(s) here.
+  - type: textarea
+    id: stackexchange-profile
+    attributes:
+      label: StackExchange profile 
+      description: Share with us the link to your StackExchange profile. 
+      placeholder: Add links to your profile here.
   - type: textarea
     id: polkadot-forum-activity
     attributes:
       label: Activity on the Polkadot forum
-      description: Share with us the link to your Polkadot forum profile so we can look at the followings. \n      - Your authored forum posts in the past quarter.\n      - Your comments to topics on the forum in the past quarter.\n      We are also looking for any technical topics that you started or contributed to with responses in the past quarter. 
+      description: | 
+        Share with us the link to your Polkadot forum profile. We are going to look at the followings:
+          Your authored forum posts in the past quarter.
+          Your comments to topics on the forum in the past quarter.
+          We are also looking for any technical topics that you started or technical responses you gave to 3 or more topics in the Tech talk section of the forum in the past quarter. 
       placeholder: Add links to your forum profile here.
-    validations:
-      required: true
   - type: textarea
-    id: event-attendance
+    id: event-attendance-polkadot-events
     attributes:
       label: Attendance at Polkadot-related events 
-      description: Share with us the link(s) to event(s) that you attended in the past quarter.\n      - Any Polkadot-related events.\n      - Most recent sub0 attended. \n      - Most recent Decoded attended.
-      placeholder: Add links to the events here.
-    validations:
-      required: true
+      description: Share with us the link(s) to any Polkadot-related event(s) that you attended in the past quarter (excluding sub0, Decoded and hackathons).
+      placeholder: Add links to the event(s) here.
+  - type: textarea
+    id: event-attendance-sub0
+    attributes:
+      label: Attendance at sub0 
+      description: Share with us the link(s) and the year of the latest sub0 you attended in the past quarter.
+      placeholder: Add links to the event(s) here.
+  - type: textarea
+    id: event-attendance-decoded
+    attributes:
+      label: Attendance at Polkadot Decoded 
+      description: Share with us the link(s) and the year of the latest Polkadot Decoded you attended in the past quarter.
+      placeholder: Add links to the event(s) here.
   - type: textarea
     id: hackathon-participation
     attributes:
       label: Participation at a Polkadot hackathon (Polkadot-focused or has a Polkadot track)
-      description: Share with us the link(s) to hackathon(s) that you participated at in the past quarter. - Any participation at a hackathon with a submitted project. - Any hackathons you won with a submitted project. Please provide us with link(s) to the hackathon and also to your submitted project(s).
+      description: Share with us the link(s) to hackathon(s) that you participated at with a submitted project in the past quarter. Please also share link(s) to your submitted project(s).
       placeholder: Add links to the hackathon(s) and your project(s) here.
-    validations:
-      required: true
+  - type: textarea
+    id: hackathon-participation-won-project
+    attributes:
+      label: Participation at a Polkadot hackathon (Polkadot-focused or has a Polkadot track)
+      description: Share with us the link(s) to hackathon(s) where you won with a submitted project in the past quarter. Please also share link(s) to your submitted project(s).
+      placeholder: Add links to the hackathon(s) and your project(s) here.
   - type: textarea
     id: heroes-mentoring
     attributes:
       label: Mentoring within the Heroes program
       description: Share with us the (user)name to the folk(s) you are or have been mentoring within the Polkadot Developer Heroes program. 
       placeholder: Add the (user)name(s) here.
-    validations:
-      required: true
   - type: dropdown
     id: ambassador-program
     attributes:
@@ -82,61 +120,99 @@ body:
         - "Yes, I'm a Polkadot Ambassador"
         - "Yes, I'm a Polkadot Senior or Head Ambassador"
         - "No, I'm not a Polkadot Ambassador"
-    validations:
-      required: true
   - type: textarea
     id: community-moderation
     attributes:
       label: Community moderation
       description: Share with us your username and the channel(s) if you are a moderator or active contributor in Polkadot-focused online communities (e.g., Telegram, Discord). 
       placeholder: Add the (user)name(s) and channel names here.
-    validations:
-      required: true
   - type: textarea
-    id: written-content
+    id: written-content-blog
     attributes:
-      label: Written content in the past quarter
-      description: Share with us the link(s) to any blog(s) where you have produced or contributed to any of the followings in the past quarter. \n      - More than one technical blog posts. \n      - Any interactive educational content (e.g. coding challenges, quizzes) related to Polkadot.\n      - Any Polkadot-related educational content in other languages than English.\n      - Any Polkadot-related infographics or visual content.
-      placeholder: Add links to your works for written content here.
-    validations:
-      required: true
+      label: Technical blog posts
+      description: Share with us the link(s) to any technical blog post(s) that you have produced or contributed to in the past quarter.
+      placeholder: Add links to the blog post(s).
   - type: textarea
-    id: recorded-content
+    id: written-content-edu-content
     attributes:
-      label: Recorded content in the past quarter
-      description: Share with us the link(s) to any channels where you have produced or contributed to any of the followings in the past quarter. \n      - More than one technical-focused videos on own Youtube (or other platform) or podcast channel. \n      - Any Polkadot-focused YouTube (or other platform) channel or podcast where you were a guest speaker.
+      label: Interactive educational content
+      description: Share with us the link(s) to any interactive educational content (e.g. coding challenges, quizzes) related to Polkadot that you have produced or contributed to in the past quarter.
+      placeholder: Add links to the content(s).
+  - type: textarea
+    id: written-content-not-english
+    attributes:
+      label: International education content
+      description: Share with us the link(s) to any Polkadot-related educational content in other languages than English that you have produced or contributed to in the past quarter.
+      placeholder: Add links to the content(s).
+  - type: textarea
+    id: written-content-visual
+    attributes:
+      label: Visual content
+      description: Share with us the link(s) to any Polkadot-related infographics or visual content that you have produced or contributed to in the past quarter.
+      placeholder: Add links to the content(s).
+  - type: textarea
+    id: recorded-content-own
+    attributes:
+      label: Recorded own content
+      description: Share with us the link(s) to any of your own Youtube (or other) or podcast channel that you have produced or contributed to with more than one technical-focused content in the past quarter. 
       placeholder: Add links to Youtube or podcast channel(s) here.
-    validations:
-      required: true
+  - type: textarea
+    id: recorded-content-guest
+    attributes:
+      label: Recorded content as a guest
+      description: Share with us the link(s) to any Polkadot-focused YouTube (or other) channel or podcast that you have been invited to as a guest speaker in the past quarter.
+      placeholder: Add links to Youtube or podcast channel(s) here.
   - type: textarea
     id: public-speaking
     attributes:
       label: Public speaking
       description: Share with us the link(s) to any occasions when you served as a speaker or panelist at conferences or events on Polkadot-related topic(s) in the past quarter.
       placeholder: Add links to the event(s) here.
-    validations:
-      required: true
+  - type: textarea
+    id: event-organization-meetup
+    attributes:
+      label: Organization of or participation at Polkadot-related technical community meetup
+      description: Share with us the link(s) to any Polkadot related technical community meetup(s) that you organized or hosted in the past quarter.
+      placeholder: Add links to the event(s) here.
+  - type: textarea
+    id: event-organization-workshop
+    attributes:
+      label: Organization of or participation at Polkadot-related technical community meetups
+      description: Share with us the link(s) to any Polkadot related technical workshop that you organized or hosted in the past quarter.
+      placeholder: Add links to the event(s) here.
   - type: textarea
     id: event-organization
     attributes:
-      label: Organization of or participation at Polkadot-related tech focused events
-      description: Share with us the link(s) to any Polkadot-related tech focused events that you have organized or participated at in the past quarter. \n      - Any Polkadot related technical community meetup(s) organized or hosted.\n     - Any Polkadot related technical workshops organized or hosted.\n     - Any other community initiative(s) (e.g Polkadot-focused hackathon or coding challenge) organized or hosted.\n     - Any a Polkadot hackathon(s) where you served as a judge or a mentor. 
+      label: Organization of or participation at Polkadot-related technical workshops
+      description: Share with us the link(s) to any Polkadot related technical workshop that you organized or hosted in the past quarter.
       placeholder: Add links to the event(s) here.
-    validations:
-      required: true
   - type: textarea
-    id: active-involvement
+    id: event-organization-other
     attributes:
-      label: Active involvement in Polkadot based projects
-      description: Share with us the link(s) to any groups or projects that you have been actively involved with, such as the followings.\n      - Founded or lead Polkadot-related working group or special interest group. \n     - Any Polkadot-based project where you are holding an engineering leadership position.  
-      placeholder: Add links to group(s) or project(s) here.
-    validations:
-      required: true
+      label: Organization of or participation at Polkadot-related technical workshops
+      description: Share with us the link(s) to any other community initiatives (eg. Polkadot-focused hackathon or coding challenge) that you organized or hosted in the past quarter.
+      placeholder: Add links to the event(s) here.
+  - type: textarea
+    id: event-organization-judging
+    attributes:
+      label: Judging or mentoring a hackathon
+      description: Share with us the link(s) to any Polkadot hackathons where you served as a judge or mentor at Polkadot hackathons in the past quarter.
+      placeholder: Add links to the event(s) here.
+  - type: textarea
+    id: active-involvement-groups
+    attributes:
+      label: Active involvement in Polkadot related groups
+      description: Share with us the link(s) if you have founded or you are leading any Polkadot-related working groups or special interest groups. 
+      placeholder: Add links to group(s) here.
+  - type: textarea
+    id: active-involvement-engineering
+    attributes:
+      label: Leading engineering in Polkadot based projects
+      description: Share with us the link(s) to any Polkadot-based project where you are holding an engineering leadership position.  
+      placeholder: Add links to the project(s) here.
   - type: textarea
     id: online-discussions
     attributes:
       label: Leading discussions in the online space
       description: Share with us link(s) to any channels in the online space where you are running and/or managing a Polkadot-focused media outlet or publication. 
       placeholder: Add links to your publication(s) here.
-    validations:
-      required: true
