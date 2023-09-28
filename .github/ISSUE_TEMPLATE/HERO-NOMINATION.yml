@@ -15,7 +15,13 @@ body:
     id: code-contribution
     attributes:
       label: Code contributions
-      description: Share with us your substantial code contributions where your pull request has been merged to one or more of the followings.\n       - The Polkadot SDK repository (Polkadot, Substrate, Cumulus).\n       - Any open-source Substrate based chain project\n       - Any popular open-source library or tool used within the Polkadot ecosystem (eg. libp2p, rust, WASM,...)\n       - Any dapp within the Polkadot ecosystem.\n Please share links to everything referenced. If it's not an open source project, please reach out to us separately.
+      description: |
+        Share with us your substantial code contributions where your pull request has been merged to one or more of the followings.
+        The Polkadot SDK repository (Polkadot, Substrate, Cumulus).
+        Any open-source Substrate based chain project
+        Any popular open-source library or tool used within the Polkadot ecosystem (eg. libp2p, rust, WASM,...)
+        Any dapp within the Polkadot ecosystem.
+        Please share links to everything referenced. If it's not an open source project, please reach out to us separately.
       placeholder: Add links to your code contributions here.
     validations:
       required: true
@@ -55,11 +61,7 @@ body:
     id: hackathon-participation
     attributes:
       label: Participation at a Polkadot hackathon (Polkadot-focused or has a Polkadot track)
-      description: 
-        - Share with us the link(s) to hackathon(s) that you participated at in the past quarter.
-        - Any participation at a hackathon with a submitted project.
-        - Any hackathons you won with a submitted project.
-          Please provide us with link(s) to the hackathon and also to your submitted project(s).
+      description: Share with us the link(s) to hackathon(s) that you participated at in the past quarter. - Any participation at a hackathon with a submitted project. - Any hackathons you won with a submitted project. Please provide us with link(s) to the hackathon and also to your submitted project(s).
       placeholder: Add links to the hackathon(s) and your project(s) here.
     validations:
       required: true
