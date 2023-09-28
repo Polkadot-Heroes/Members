@@ -76,6 +76,8 @@ body:
         - "Yes, I'm a Polkadot Ambassador"
         - "Yes, I'm a Polkadot Senior or Head Ambassador"
         - "No, I'm not a Polkadot Ambassador"
+    validations:
+      required: true
   - type: textarea
     id: community-moderation
     attributes:
