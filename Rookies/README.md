@@ -255,6 +255,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `VillagerFarmer`
   - LinkedIn: [Raphael Nembhard](https://www.linkedin.com/in/raphael-nembhard-701b41180)
 
+### Sachin Jangid
+<img src="./images/gittysachin.jpg" width="100"/>
+
+- Name: Sachin Jangid
+- Position: Senior Backend Engineer
+- GitHub Profile: [gittysachin](https://github.com/gittysachin)
+- Social Media Links:
+  - Discord: `gittysachin`
+  - X: [thesachinjangid](https://twitter.com/thesachinjangid)
+  - E-mail: `sachinjangid832@gmail.com`
+
 ### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
 
