@@ -8,19 +8,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 
 ## Rookies List
 
-### Saing Sab
-<img src="./images/saing_sab.png" width="100"/>
-
-- Name: Saing Sab
-- Position: Head of Blockchain @IG TECH, Commnunity builder, Dev Rel
-- Github Profile: [saingsab](https://github.com/saingsab)
-- Social Media Links:
-  - Discord: `saing_sab`
-  - X: [SBS](https://twitter.com/saingsab)
-  - Element: `@saingsab:matrix.org`
-  - E-mail: `saing.sab@gmail.com`
-  - Linkedin: [Saing Sab](https://www.linkedin.com/in/saingsab/)
-
 ### Abdulaziz Kamil
 <img src="./images/Abdulaziz.png" width="100"/>
 
@@ -278,6 +265,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `gittysachin`
   - X: [thesachinjangid](https://twitter.com/thesachinjangid)
   - E-mail: `sachinjangid832@gmail.com`
+
+### Saing Sab
+<img src="./images/saing.png" width="100"/>
+
+- Name: Saing Sab
+- Position: Head of Blockchain @IG TECH, Commnunity builder, Dev Rel
+- Github Profile: [saingsab](https://github.com/saingsab)
+- Social Media Links:
+  - Discord: `saing_sab`
+  - X: [SBS](https://twitter.com/saingsab)
+  - Element: `@saingsab:matrix.org`
+  - E-mail: `saing.sab@gmail.com`
+  - Linkedin: [Saing Sab](https://www.linkedin.com/in/saingsab/)
 
 ### Salil Dinesh Apte
 <img src="./images/salil.jpg" width="100"/>
