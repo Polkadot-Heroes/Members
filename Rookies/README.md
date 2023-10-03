@@ -376,6 +376,21 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `mynameiszian@gmail.com`
 
 
+### Cyndie
+<img src="./images/Cyndie_Kamau.jpg" width="100"/>
+
+- Name: Cynthia Mwihaki Kamau
+- Position: Rust Developer
+- GitHub Profile: [CyndieKamau](https://github.com/CyndieKamau)
+- Social Media Links:
+  - LinkedIn: [Cynthia Mwihaki Kamau](https://www.linkedin.com/in/cynthiakamau/)
+  - Discord: `cyndiekamau`
+  - Telegram: `@Cyndie_Kamau`
+  - E-mail: `cyndiekamaa@gmail.com`
+  - Twitter: `https://twitter.com/CyndieKamau`
+
+
+
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
