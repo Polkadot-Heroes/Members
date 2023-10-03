@@ -105,6 +105,23 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@shi_chengc`
   - LinkedIn: [师琤琤](https://www.linkedin.com/in/%E7%90%A4%E7%90%A4-%E5%B8%88-b64586269/)
 
+
+
+### Cyndie
+<img src="./images/Cyndie_Kamau.jpg" width="100"/>
+
+- Name: Cynthia Kamau
+- Position: Rust Developer
+- GitHub Profile: [CyndieKamau](https://github.com/CyndieKamau)
+- Social Media Links:
+  - LinkedIn: [Cynthia Mwihaki Kamau](https://www.linkedin.com/in/cynthiakamau/)
+  - Discord: `cyndiekamau`
+  - Telegram: `@Cyndie_Kamau`
+  - E-mail: `cyndiekamaa@gmail.com`
+  - Twitter: [CyndieKamau](https://twitter.com/CyndieKamau)
+
+
+
 ### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
 
@@ -374,20 +391,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `zian0403`
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
-
-
-### Cyndie
-<img src="./images/Cyndie_Kamau.jpg" width="100"/>
-
-- Name: Cynthia Mwihaki Kamau
-- Position: Rust Developer
-- GitHub Profile: [CyndieKamau](https://github.com/CyndieKamau)
-- Social Media Links:
-  - LinkedIn: [Cynthia Mwihaki Kamau](https://www.linkedin.com/in/cynthiakamau/)
-  - Discord: `cyndiekamau`
-  - Telegram: `@Cyndie_Kamau`
-  - E-mail: `cyndiekamaa@gmail.com`
-  - Twitter: `https://twitter.com/CyndieKamau`
 
 
 
