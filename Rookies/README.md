@@ -173,6 +173,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `munificent6864`
   - LinkedIn: [gangov](https://www.linkedin.com/in/gangov/)
 
+### Leandro Palazzolo
+<img src="./images/leandro_palazzolo.jpg/" width="100"/>
+
+- Name: Leandro Palazzolo
+- Position: Backend Developer / Blockchain Developer
+- GitHub Profile: [leapalazzolo](https://github.com/leapalazzolo)
+- Social Media Links:
+  - E-mail: `leapalazzolo@gmail.com`
+  - Linkedin: [Leandro Palazzolo](https://www.linkedin.com/in/leandro-palazzolo-85350787/)
+  - Discord: `leapalazzolo`
+  - Telegram: `@leapalazzolo`
+
 ### Luke Schoen
 <img src="./images/piggy.png" width="100"/>
 
