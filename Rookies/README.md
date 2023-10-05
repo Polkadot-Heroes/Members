@@ -143,6 +143,20 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@FrankBevr`
   - E-mail: `frank_dierolf@web.de`
 
+  ### Gabriel Bonugli
+<img src="./images/gabriel.png" width="100"/>
+
+- Name: Gabriel Bonugli
+- Position: Substrate/Ink Apprentice
+- GitHub Profile: [gabekvds](https://github.com/gabekvds)
+- Social Media Links:
+  - X: [https://twitter.com/gabekoin](https://twitter.com/gabekoin)
+  - Discord: `Gabekoin`
+  - Telegram: `@gabekoin`
+  - E-mail: `gabriel_bonugli@hotmail.com`
+  - Youtube: [https://www.youtube.com/@vdscripto](https://www.youtube.com/@vdscripto)
+- Blog: [https://medium.com/@gabekoin](https://medium.com/@gabekoin)
+
 ### Georgii Plotnikov
 <img src="./images/georgii.jpg" width="100">
 
