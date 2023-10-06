@@ -70,6 +70,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Element: `@aless10:matrix.org`
   - E-mail: `alessiogiannini99@gmail.com`
   - LinkedIn: [Alessio Giannini](https://www.linkedin.com/in/alessio-giannini-973787173/)
+ 
+### Amit Nadiger
+
+- Name:  Amit Nadiger
+- Position: Block chain developer
+- GitHub Profile: [NadigerAmit]([https://github.com/NadigerAmit/)
+- Social Media Links:
+  - Discord: `amitnadigerjsindia`
+  - E-mail: `amitnadigerjsindia@gmail.com`
+  - LinkedIn: [[Amit Nadiger](https://www.linkedin.com/in/%F0%9F%A6%80-amit-nadiger-%F0%9F%A6%80-94a7224/)
 
 ### Andrew Arutiunian
 <img src="./images/andrewar.png" width="100"/>
