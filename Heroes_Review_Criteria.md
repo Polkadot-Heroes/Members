@@ -55,8 +55,7 @@ Furthermore, points can be collected via the following criteria, if the candidat
 | Has contributed more than once to documentation for Polkadot <br>or a Polkadot ecosystem project in the past quarter | GitHub link(s) | 2 |
 | Has published a technical research paper or article <br>about Rust or Polkadot with more than 60% of own content | Content link(s) | 2 |
 | Is in the top 10% on StackExchange | StackExchange <br>profile link | 1 |
-
-| Has been graduated from the Polkadot Blockchain Academy | Year - Location | 2 points |
+| Has been graduated from the Polkadot Blockchain Academy | Year - Location | 2 |
 
 ### Community involvement
 
