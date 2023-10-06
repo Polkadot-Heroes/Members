@@ -82,6 +82,21 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@siguint`
   - E-mail: `andrew.arutiunian@gmail.com`
 
+### Arjan van Eersel
+<img src="./images/arjan.jpg" width="100"/>
+
+- Name: Arjan van Eersel
+- Position: Co-Founder and CTO of [Trrue](https://trrue.io)
+- Github Profile: [arjanvaneersel](https://github.com/arjanvaneersel)
+- Personal website: [arjan.vaneersel.me](https://arjan.vaneersel.me)
+- Social Media Links:
+  - Discord: `arjanvaneersel`
+  - X: [arjanvaneersel](https://x.com/arjanvaneersel)
+  - Telegram: [@avaneersel](https://t.me/avaneersel)
+  - Element: `@arjanvaneersel:matrix.org`
+  - E-mail: `arjan@vaneersel.me`
+  - Linkedin: [Arjan van Eersel](https://www.linkedin.com/in/arjanvaneersel/)
+
 ### Chinedu E. Nwadike
 <img src="./images/kombi.jpeg" width="100">
 
