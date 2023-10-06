@@ -19,7 +19,7 @@ We commit to responding to every nomination within two weeks after the review pr
 ## Scoring Framework
 
 Evaluation will be based on the following criteria and questions. The scoring framework should assist the evaluators in providing a reasoned score for each category for the candidate.
-Candidates need to first meet one of four criteria, which assesses their coding skills. Then candidates will be evaluated based on a comprehensive evaluation framework. **The framework has a maximum of 49 points.** 
+Candidates need to first meet one of four criteria, which assesses their coding skills. Then candidates will be evaluated based on a comprehensive evaluation framework. **The framework has a maximum of 51 points.** 
 
 <mark>Those candidates that score 25 or more points will be promoted from Rookie to Hero.</mark>
 
@@ -55,6 +55,8 @@ Furthermore, points can be collected via the following criteria, if the candidat
 | Has contributed more than once to documentation for Polkadot <br>or a Polkadot ecosystem project in the past quarter | GitHub link(s) | 2 |
 | Has published a technical research paper or article <br>about Rust or Polkadot with more than 60% of own content | Content link(s) | 2 |
 | Is in the top 10% on StackExchange | StackExchange <br>profile link | 1 |
+
+| Has been graduated from the Polkadot Blockchain Academy | Year - Location | 2 points |
 
 ### Community involvement
 
