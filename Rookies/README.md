@@ -446,6 +446,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
 
+### Yash Thipsay
+<img src="./images/Yash_Thipsay.jpg" width="100">
+
+- Name: Yury Yukhananov
+- Position: Web3/Full Stack Developer, Blockchain Researcher
+- Github Profile: [yashthipsay](https://github.com/yashthipsay)
+- Social Media Links:
+  - Email: `yashthpsay@gmail.com`
+  - Telegram: `@yashh_123`
+  - Linkedin: [Yash Thipsay](https://www.linkedin.com/in/yash-thipsay-7a67a0233)
+  - Blogs: [y_blogs](https://yblogs.hashnode.dev/)
+  - Discord: `@panzee`
 
 
 ## Contributing
