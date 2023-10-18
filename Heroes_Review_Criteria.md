@@ -13,8 +13,8 @@ Each candidate is scored based on proof(s) of work in four areas. These areas en
 
 * **Leadership experience**: Are they deeply involved in leading the Polkadot community, organizing events, leading projects, judging or mentoring at hackathons, or possibly managing a Polkadot-focused publications?
 
-The team reviews nominations **four** times a year in March, June, September and December.
-We commit to responding to every nomination within two weeks after the review process has completed.
+The team reviews nominations on a rolling basis. Review cadence might change in the future, depending on number of nominations received. 
+We commit to responding to every nomination within two weeks after receiving the nomination.
 
 ## Scoring Framework
 
