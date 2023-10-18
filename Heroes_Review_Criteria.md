@@ -96,7 +96,7 @@ Furthermore, points can be collected via the following criteria, if the candidat
 
 | Written content - in the past quarter | Scoring via | Points to earn|
 | :----------- | :----------- | :----------- |
-| Has produced more than one technical blog post | Content link(s) | 2 |
+| Has produced more than one technical blog post in a Polkadot specific topic | Content link(s) | 2 |
 | Has produced any interactive educational content related to Polkadot <br> *(e.g. coding challenges, quizzes)*| Content link(s) | 1 |
 | Has produced any Polkadot-related educational content in other languages than English | Content link(s) | 2 |
 | Has created and shared Polkadot-related infographics or visual content in the past quarter | Content link(s) | 1 |
