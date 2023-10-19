@@ -322,6 +322,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Social Media Links:
   - Discord: `sacha437`
   - X: [SachaL__](https://twitter.com/SachaL__)
+  - Blogs: https://sachalansky.hashnode.dev/
 
 ### Sachin Jangid
 <img src="./images/gittysachin.jpg" width="100"/>
