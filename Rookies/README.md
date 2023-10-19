@@ -434,6 +434,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `nyambura00`
   - Linkedin: [Winnie Ndung'u](https://www.linkedin.com/in/winnie-nyambura/)
 
+### Yash Thipsay
+<img src="./images/Yash_Thipsay.jpg" width="100">
+
+- Name: Yury Yukhananov
+- Position: Web3/Full Stack Developer, Blockchain Researcher
+- Github Profile: [yashthipsay](https://github.com/yashthipsay)
+- Social Media Links:
+  - Email: `yashthpsay@gmail.com`
+  - Telegram: `@yashh_123`
+  - Linkedin: [Yash Thipsay](https://www.linkedin.com/in/yash-thipsay-7a67a0233)
+  - Blogs: [y_blogs](https://yblogs.hashnode.dev/)
+  - Discord: `@panzee`
+
 ### Yury Yukhananov
 <img src="./images/yuryy.jpg" width="100">
 
@@ -456,7 +469,6 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `zian0403`
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
-
 
 
 ## Contributing
