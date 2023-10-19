@@ -313,6 +313,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `VillagerFarmer`
   - LinkedIn: [Raphael Nembhard](https://www.linkedin.com/in/raphael-nembhard-701b41180)
 
+### Sacha Lansky
+<img src="./images/sacha-l.png" width="100"/>
+
+- Name: Sacha Lansky
+- Position: Developer Relations Engineer (Polkadot and Substrate)
+- Github Profile: [sacha-l](https://github.com/sacha-l)
+- Social Media Links:
+  - Discord: `sacha437`
+  - X: [SachaL__](https://twitter.com/SachaL__)
+  - Blogs: https://sachalansky.hashnode.dev/
+
 ### Sachin Jangid
 <img src="./images/gittysachin.jpg" width="100"/>
 
