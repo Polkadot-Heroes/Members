@@ -136,6 +136,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Twitter: [CyndieKamau](https://twitter.com/CyndieKamau)
 
 
+### Dustin 
+<img src="./images/Dustin.jpg" width="100"/>
+
+- Name: Dustin Ho
+- Position: Blockchain Developer
+- GitHub Profile: [CocDap](https://github.com/CocDap)
+- Social Media Links:
+  - LinkedIn: [Dustin](https://www.linkedin.com/in/dinh-dung-880bb0219/)
+  - Discord: `cocdap`
+  - Telegram: `@dunghodinh`
+  - E-mail: `hodinhdung1997@gmail.com`
+
 
 ### Fenn Ignatius Saji
 <img src="./images/fenn.jpg" width="100"/>
