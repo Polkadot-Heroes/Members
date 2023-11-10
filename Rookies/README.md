@@ -206,6 +206,18 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - LinkedIn: [https://www.linkedin.com/in/gianluigidavassi/](https://www.linkedin.com/in/gianluigidavassi/)
   - E-mail: `gianluigi@honos.finance`
 
+### Haoyang Li
+<img src="./images/haoyangli.jpg" width="100"/>
+
+- Name: Haoyang Li
+- Position: Founder & Blockchain Developer at Commit Labs Inc.
+- GitHub Profile: [Haoyang](https://github.com/lhymmEU)
+- Social Media Links:
+  - X: [https://twitter.com/MagicS86643](https://twitter.com/MagicS86643)
+  - LinkedIn: [https://www.linkedin.com/in/haoyang-li-aa3647240/](https://www.linkedin.com/in/haoyang-li-aa3647240/)
+  - Discord: `_magicsheep`
+  - E-mail: `italy.18429@gmail.com`
+
 ### John Rhodel Bartolome
 <img src="./images/johnrhodelbartolome.jpg" width="100"/>
 
