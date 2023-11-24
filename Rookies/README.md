@@ -448,7 +448,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `bug_whisperer`
   - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
 ### Vishal Saroj
-<img src="./images/Vishal.jpeg" width="100">
+<img src="./images/Vishal.png" width="100">
 
 - Name: Vishal Saroj
 - Position: Jr Blockchain Developer
