@@ -447,6 +447,15 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Social Media Links:
   - Discord: `bug_whisperer`
   - Linkedin: [aliusama](https://www.linkedin.com/in/aliusama14/)
+### Vishal Saroj
+<img src="./images/Vishal.jpeg" width="100">
+
+- Name: Vishal Saroj
+- Position: Jr Blockchain Developer
+- Github Profile: [vishal-sys](https://github.com/vishal-sys)
+- Social Media Links:
+  - Discord: `kernel999`
+  - Linkedin: [vishalsaroj](https://www.linkedin.com/in/vishal-saroj-a86099211/)
 
 ### Winnie Ndung'u
 <img src="./images/winnie.jpg" width="100">
