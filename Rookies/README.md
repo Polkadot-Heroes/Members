@@ -217,6 +217,20 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - LinkedIn: [https://www.linkedin.com/in/haoyang-li-aa3647240/](https://www.linkedin.com/in/haoyang-li-aa3647240/)
   - Discord: `_magicsheep`
   - E-mail: `italy.18429@gmail.com`
+  
+### Ippo
+<img src="./images/Ippo.jpg" width="100"/>
+
+- Name: Nguyen Thai Phuong
+- Position: Blockchain Developer at [nami](https://vnst.io/en)
+- GitHub Profile: [NTP-996](https://github.com/NTP-996)
+- Social Media Links:
+  - LinkedIn: [Nguyen Thai Phuong](https://www.linkedin.com/in/peter-ng-b3a2a5186/)
+  - Discord: `ippo3496`
+  - Telegram: `@IppoCrypto`
+  - E-mail: `thaiphuongn1@gmail.com`
+  - Twitter: [CrytoPowerCoder](https://twitter.com/CrytoPowerCoder)
+  - Youtube: [IppoMedia](https://www.youtube.com/channel/UCxeO7HK2hyk0Wj236I97w_Q)
 
 ### John Rhodel Bartolome
 <img src="./images/johnrhodelbartolome.jpg" width="100"/>
@@ -502,8 +516,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `zian0403`
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
-
-
+  
 ## Contributing
 
 To add your profile to our list of Rookies or Heroes, please follow the steps below, please only do so once you receive an invitation after acceptance into the program:
