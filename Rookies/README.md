@@ -136,6 +136,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Twitter: [CyndieKamau](https://twitter.com/CyndieKamau)
 
 
+### Dila Akkaya
+<img src="./images/dila.jpg" width="100"/>
+
+- Name: Dila Akkaya
+- Position: Mechatronics Engineering Graduate / Data Analyst
+- GitHub Profile: [akkayadila](https://github.com/akkayadila)
+- Social Media Links:
+  - LinkedIn: [Dila Akkaya](https://www.linkedin.com/in/akkayadila/)
+  - Discord: `akkayadila`
+  - Telegram: `@akkayadila`
+  - E-mail: `dila.akkaya@gmail.com`
+
+
 ### Dustin 
 <img src="./images/Dustin.jpg" width="100"/>
 
