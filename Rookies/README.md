@@ -140,7 +140,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 <img src="./images/dila.jpg" width="100"/>
 
 - Name: Dila Akkaya
-- Position: Mechatronics Engineering Graduate / Data Analyst 
+- Position: Mechatronics Engineering Graduate / Data Analyst
 - GitHub Profile: [akkayadila](https://github.com/akkayadila)
 - Social Media Links:
   - LinkedIn: [Dila Akkaya](https://www.linkedin.com/in/akkayadila/)
