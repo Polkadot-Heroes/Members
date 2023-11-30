@@ -375,6 +375,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - X: [SachaL__](https://twitter.com/SachaL__)
   - Blogs: https://sachalansky.hashnode.dev/
 
+### Sachin Gurjar
+<img src="./images/sachingurjar.png" width="100"/>
+
+- Name: Sachin Gurjar
+- Position: Full Stack Blockchain Developer (Typescript, Rust)
+- GitHub Profile: [SachinCoder1](https://github.com/SachinCoder1)
+- Social Media Links:
+  - Discord: `sachingurjar`
+  - Linkedin: [Sachin Gurjar](https://www.linkedin.com/in/sachingurjar)
+
 ### Sachin Jangid
 <img src="./images/gittysachin.jpg" width="100"/>
 
