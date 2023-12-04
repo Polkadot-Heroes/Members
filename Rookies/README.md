@@ -98,7 +98,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Linkedin: [Arjan van Eersel](https://www.linkedin.com/in/arjanvaneersel/)
 
 ### Bolaji Ahmad
-<img src="./images/bolaji-ahmad.jpg" width="100">
+<img src="./images/bolaji.jpg" width="100">
 
 - Name: Bolaji Ahmad
 - Position: Full-Stack Blockchain Engineer (Rust | Typescript | Solidity | Cairo)
