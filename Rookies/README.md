@@ -97,6 +97,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `arjan@vaneersel.me`
   - Linkedin: [Arjan van Eersel](https://www.linkedin.com/in/arjanvaneersel/)
 
+### Bolaji Ahmad
+<img src="./images/bolaji.jpg" width="100">
+
+- Name: Bolaji Ahmad
+- Position: Full-Stack Blockchain Engineer (Rust | Typescript | Solidity | Cairo)
+- Github Profile: [bolajahmad](https://github.com/bolajahmad)
+- Social Media Links:
+  - Email: `bjahmad4tech@gmail.com`
+  - Discord: `bolajahmad`
+  - Telegram: `bolajahmad`
+  - Linkedin: [Bolaji Ahmad](https://www.linkedin.com/in/bolajahmad)
+  - Blogs: [Hashnode](https://bolajahmad.hashnode.dev/) | [Medium](https://medium.com/@bjahmad4tech)
+
 ### Chinedu E. Nwadike
 <img src="./images/kombi.jpeg" width="100">
 
