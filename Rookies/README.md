@@ -520,7 +520,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 ### Yash Thipsay
 <img src="./images/Yash_Thipsay.jpg" width="100">
 
-- Name: Yury Yukhananov
+- Name: Yash Thipsay
 - Position: Web3/Full Stack Developer, Blockchain Researcher
 - Github Profile: [yashthipsay](https://github.com/yashthipsay)
 - Social Media Links:
