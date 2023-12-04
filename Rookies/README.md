@@ -539,6 +539,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `zian0403`
   - Telegram: `@zianksm`
   - E-mail: `mynameiszian@gmail.com`
+
+### Yash Thipsay
+<img src="./images/bolaji-ahmad.jpg" width="100">
+
+- Name: Bolaji Ahmad
+- Position: Full-Stack Blockchain Engineer (Rust | Typescript | Solidity | Cairo)
+- Github Profile: [bolajahmad](https://github.com/bolajahmad)
+- Social Media Links:
+  - Email: `bjahmad4tech@gmail.com`
+  - Discord: `bolajahmad`
+  - Telegram: `bolajahmad`
+  - Linkedin: [Bolaji Ahmad](https://www.linkedin.com/in/bolajahmad)
+  - Blogs: [Hashnode](https://bolajahmad.hashnode.dev/) [Medium](https://medium.com/@bjahmad4tech)
   
 ## Contributing
 
