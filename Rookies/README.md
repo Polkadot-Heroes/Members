@@ -108,7 +108,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Discord: `bolajahmad`
   - Telegram: `bolajahmad`
   - Linkedin: [Bolaji Ahmad](https://www.linkedin.com/in/bolajahmad)
-  - Blogs: [Hashnode](https://bolajahmad.hashnode.dev/) [Medium](https://medium.com/@bjahmad4tech)
+  - Blogs: [Hashnode](https://bolajahmad.hashnode.dev/) | [Medium](https://medium.com/@bjahmad4tech)
 
 ### Chinedu E. Nwadike
 <img src="./images/kombi.jpeg" width="100">
