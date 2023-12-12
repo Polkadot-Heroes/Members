@@ -359,12 +359,11 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 
 - Name: Oliver Lim
 - Position: Rust/Substrate developer
-- GitHub Profile: [https://github.com/cute0laf](https://github.com/fennsaji)
+- GitHub Profile: [https://github.com/cuteolaf](https://github.com/cuteolaf)
 - Social Media Links:
   - Discord: `cute0laf`
   - Telegram: `@cuteolaf`
   - E-mail: `oliverlim818@gmail.com`
-  - Linkedin: [https://www.linkedin.com/in/oliver-lim-2215a8235](https://www.linkedin.com/in/oliver-lim-2215a8235)
 
 ### Raphael Nembhard
 <img src="./images/RaphaelNembhard.JPG" width="100">
