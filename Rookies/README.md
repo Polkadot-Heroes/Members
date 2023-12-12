@@ -587,21 +587,21 @@ git checkout -b your-new-branch-name
 
 Create your profile card in the appropriate `README.md` file (either `Rookies/README.md` or `Heroes/README.md`), following the provided template or copy and paste an earlier profile card of another member to use for reference. Make sure your profile is in alphabetical order in the list.
 
-Add your profile image to the `./images folder`, and fill out the information fields in your card.
+Add your profile image to the `./images` folder, and fill out the information fields in your card.
 
 Don't forget to preview your additions in the `README.md` file to confirm it looks as expected.
 
 ### Commit your Changes
 
-If you go to the project directory and execute the command git status, you'll see the changes.
+If you go to the project directory and execute the command `git status`, you'll see the changes.
 
-Add those changes to the branch you just created using the git add command:
+Add those changes to the branch you just created using the `git add` command:
 
 ```bash
 git add -p
 ```
 
-Now commit those changes using the git commit command:
+Now commit those changes using the `git commit` command:
 
 ```bash
 git commit -m "Add [Your Name] to Rookie (or Hero) list"
@@ -617,7 +617,7 @@ git push origin <add-your-branch-name>
 
 ### Submit your Changes for Review
 
-If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
+If you go to your repository on GitHub, you'll see a `Compare & pull` request button. Click on that button.
 
 Now submit the pull request, ensuring you use the provided PR template (either Rookie or Hero).
 
