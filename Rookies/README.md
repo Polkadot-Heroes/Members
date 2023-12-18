@@ -82,6 +82,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@siguint`
   - E-mail: `andrew.arutiunian@gmail.com`
 
+### Anna Erdi
+<img src="./images/anna.png" width="100"/>
+
+- Name: Anna Erdi
+- Position: Software Developer
+- GitHub Profile: [annaerdi](https://github.com/annaerdi)
+- Social Media Links:
+  - LinkedIn: [Anna Erdi](https://www.linkedin.com/in/anna-erdi/)
+  - Discord: `erdia607`
+
 ### Arjan van Eersel
 <img src="./images/arjan.jpg" width="100"/>
 
