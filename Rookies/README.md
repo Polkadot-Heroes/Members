@@ -143,7 +143,16 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@shi_chengc`
   - LinkedIn: [师琤琤](https://www.linkedin.com/in/%E7%90%A4%E7%90%A4-%E5%B8%88-b64586269/)
 
+### Chris Ortiz
+<img src="./images/chris.jpg" width="100"/>
 
+- Name: Chris Ortiz
+- Position: Software Engineer
+- GitHub Profile: [r3alz](https://github.com/r3alz)
+- Social Media Links:
+  - Discord: `r3alz#3264`
+  - Telegram: `@ortrees`
+  - LinkedIn: [Chris Ortiz](https://www.linkedin.com/in/chris-ortiz-a860a684/)
 
 ### Cyndie
 <img src="./images/Cyndie_Kamau.jpg" width="100"/>
