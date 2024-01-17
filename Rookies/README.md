@@ -384,6 +384,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Telegram: `@cuteolaf`
   - E-mail: `oliverlim818@gmail.com`
 
+### Omer Goksoy
+<img src="./images/omer_goksoy.png" width="100"/>
+
+- Name: Omer Goksoy
+- Position: Software Developer ( C, PHP, C#, Rust)
+- GitHub Profile: [https://github.com/omergoksoy](https://github.com/omergoksoy)
+- Rust Crate Profile: [https://crates.io/users/omergoksoy](https://crates.io/users/omergoksoy)
+- Social Media Links:
+  - Linkedin: [Omer Goksoy](https://linkedin.com/in/omergoksoy/)
+  - Telegram: `@omergoksoy`
+  - Twitter: `@goksoyomer`
+  - E-mail: `goksoy.omer@gmail.com`
+
 ### Raphael Nembhard
 <img src="./images/RaphaelNembhard.JPG" width="100">
 
