@@ -385,7 +385,7 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - E-mail: `oliverlim818@gmail.com`
 
 ### Omer Goksoy
-<img src="./images/omer_goksoy.png" width="100"/>
+<img src="./images/omer_goksoy.jpg" width="100"/>
 
 - Name: Omer Goksoy
 - Position: Software Developer ( C, PHP, C#, Rust)
