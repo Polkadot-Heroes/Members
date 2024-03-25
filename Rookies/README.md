@@ -168,6 +168,19 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
   - Twitter: [CyndieKamau](https://twitter.com/CyndieKamau)
 
 
+### Craig Mutegi Mutugi
+<img src="./images/Craig.jpeg" width="100"/>
+
+- Name: Craig Mutegi Mutugi
+- Position: Computer Science student/ full-stack developer
+- Github Profile: [cmm25](https://github.com/cmm25)
+- Social Media Links :
+  - LinkedIn: [Craig Mutugi](https://www.linkedin.com/in/craig-mutugi-71598023b/)
+  - Discord: `mutegimutugi`
+  - E-mail: `craigmutegi@gmail.com`
+  - Telegram: `MutegiMutugi`
+
+
 ### Dila Akkaya
 <img src="./images/dila.jpg" width="100"/>
 
